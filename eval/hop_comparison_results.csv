@@ -1,0 +1,21 @@
+id,hop_type,question,single_hop_full_hit,single_hop_overlap,multi_hop_full_hit,multi_hop_overlap,took_second_hop,multi_hop_improved_over_single
+q1,single,How often must a commercial motor vehicle undergo a periodic inspection?,True,1.0,True,1.0,False,False
+q2,single,Does a state-performed annual inspection count toward the federal periodic inspection requirement?,True,1.0,True,1.0,False,False
+q3,single,What brake defects cause a vehicle to fail its periodic inspection?,True,1.0,True,1.0,False,False
+q4,single,How often must a motor carrier review a driver's motor vehicle record?,True,1.0,True,1.0,False,False
+q5,single,How long must a driver qualification file be retained after a driver leaves the company?,True,1.0,True,1.0,False,False
+q6,single,What training must a driver complete before taking the knowledge test for a hazmat endorsement?,True,1.0,True,1.0,True,False
+q7,single,Must a vehicle carrying explosives always be attended by the driver?,True,1.0,True,1.0,False,False
+q8,single,What documents must be carried in the vehicle when transporting a hazmat-permitted material?,True,1.0,True,1.0,True,False
+q9,single,What routing precautions must a motor carrier take when transporting hazardous materials through populated areas?,True,1.0,True,1.0,False,False
+q10,single,Who is authorized to perform the medical examination confirming a driver is physically qualified to drive?,True,1.0,True,1.0,False,False
+q11,single,What knowledge must a driver have to earn a hazardous materials endorsement on their CDL?,True,1.0,True,1.0,False,False
+q12,single,How long does a carrier have to correct violations noted on a roadside inspection report?,True,1.0,True,1.0,False,False
+q13,multi,"If a Class 8 truck is hauling hazardous materials, what inspection interval and driver qualification rules apply?",False,0.0,False,0.0,True,False
+q14,multi,"What safety rating must a carrier hold to get a hazmat safety permit, and how often must it separately review its drivers' records?",True,1.0,True,1.0,False,False
+q15,multi,"What paperwork must be in the cab for a permitted hazmat load, and what training must the driver have completed to legally hold the hazmat endorsement in the first place?",False,0.5,True,1.0,True,True
+q16,multi,"If a carrier uses an alternative inspection program instead of the standard periodic inspection, what happens if FMCSA finds it inadequate, and what safety-rating condition must the carrier separately meet to hold a hazmat permit?",False,0.5,True,1.0,True,True
+q17,multi,"For a truck hauling explosives, what routing precautions must the carrier take, and what documentation must be carried for the permitted load?",True,1.0,True,1.0,False,False
+q18,multi,"What brake-related defects fail a periodic inspection, and separately, how long are driver qualification files kept?",False,0.5,True,1.0,True,True
+q19,multi,"A driver was disqualified for an out-of-service order violation while hauling hazmat. How long is that disqualification, and what does the carrier's annual driver record review need to separately account for?",True,1.0,True,1.0,False,False
+q20,multi,"Who is required to comply with the inspection and maintenance rules under Part 396, and what is the general obligation on motor carriers to inspect and maintain their vehicles?",False,0.5,False,0.5,False,False

@@ -1,0 +1,147 @@
+SOURCE: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391
+SOURCE: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391/subpart-F/section-391.51
+PART 391—QUALIFICATIONS OF DRIVERS AND LONGER COMBINATION VEHICLE (LCV) DRIVER INSTRUCTORS
+
+Subpart A—General
+
+§ 391.1 Scope of the rules in this part; additional qualifications; duties of carrier-drivers.
+
+(a) The rules in this part establish minimum qualifications for persons who drive commercial motor vehicles as, for, or on behalf of motor carriers. The rules in this part also establish minimum duties of motor carriers with respect to the qualifications of their drivers.
+
+(b) An individual who meets the definition of both a motor carrier and a driver employed by that motor carrier must comply with both the rules in this part that apply to motor carriers and the rules in this part that apply to drivers.
+
+§ 391.2 General exceptions.
+
+(a) Farm custom operation. The rules in this part, except for § 391.15(e) and (f), do not apply to a driver who drives a commercial motor vehicle controlled and operated by a person engaged in custom-harvesting operations.
+
+(d) Covered farm vehicles. The rules in part 391, Subpart E—Physical Qualifications and Examinations—do not apply to drivers of "covered farm vehicles," as defined in 49 CFR 390.5.
+
+Subpart B—Qualification and Disqualification of Drivers
+
+§ 391.11 General qualifications of drivers.
+
+(a) A person shall not drive a commercial motor vehicle unless he/she is qualified to drive a commercial motor vehicle. Except as provided in § 391.63, a motor carrier shall not require or permit a person to drive a commercial motor vehicle unless that person is qualified to drive a commercial motor vehicle.
+
+(b) Except as provided in subpart G of this part, a person is qualified to drive a motor vehicle if he/she—
+
+(1) Is at least 21 years old;
+
+(2) Can read and speak the English language sufficiently to converse with the general public, to understand highway traffic signs and signals in the English language, to respond to official inquiries, and to make entries on reports and records;
+
+(3) Can, by reason of experience, training, or both, safely operate the type of commercial motor vehicle he/she drives;
+
+(4) Is physically qualified to drive a commercial motor vehicle in accordance with subpart E—Physical Qualifications and Examinations of this part;
+
+(5) Has a currently valid commercial motor vehicle operator's license issued only by one State or jurisdiction;
+
+(6) Is not disqualified to drive a commercial motor vehicle under the rules in § 391.15; and
+
+(7) Has successfully completed a driver's road test and has been issued a certificate of driver's road test in accordance with § 391.31, or has presented an operator's license or a certificate of road test which the motor carrier that employs him/her has accepted as equivalent to a road test in accordance with § 391.33.
+
+§ 391.13 Responsibilities of drivers.
+
+A motor carrier shall not require or permit a person to drive a commercial motor vehicle unless the person—(a) Can, by reason of experience, training, or both, determine whether the cargo he/she transports has been properly located, distributed, and secured; (b) Is familiar with methods and procedures for securing cargo in or on the commercial motor vehicle he/she drives.
+
+§ 391.15 Disqualification of drivers.
+
+(a) General. A driver who is disqualified shall not drive a commercial motor vehicle. A motor carrier shall not require or permit a driver who is disqualified to drive a commercial motor vehicle.
+
+(c) Disqualification for criminal and other offenses. (2) Disqualifying offenses include: driving a commercial motor vehicle while under the influence of alcohol (0.04 percent or more alcohol concentration, or as prescribed by State law, or refusal to undergo testing); driving under the influence of a Schedule I controlled substance, amphetamine, narcotic drug; transportation, possession, or unlawful use of such substances while on duty; leaving the scene of an accident while operating a commercial motor vehicle; or a felony involving the use of a commercial motor vehicle.
+
+(3) Duration of disqualification. (i) First offenders — disqualified for 1 year after conviction, or 6 months if solely concerning transportation or possession of certain substances. (ii) Subsequent offenders — disqualified for 3 years.
+
+(d) Disqualification for violation of out-of-service orders. (2)(i) First violation — disqualified for not less than 90 days nor more than one year. (ii) Second violation — disqualified for not less than one year nor more than five years. (iv) Special rule for hazardous materials and passenger offenses — disqualified for not less than 180 days nor more than two years for a first violation of an out-of-service order while transporting hazardous materials required to be placarded, or while operating vehicles designed to transport more than 15 passengers.
+
+Subpart C—Background and Character
+
+§ 391.21 Application for employment.
+
+(a) Except as provided in subpart G of this part, a person shall not drive a commercial motor vehicle unless he/she has completed and furnished the motor carrier that employs him/her with an application for employment.
+
+(b) The application for employment shall be made on a form furnished by the motor carrier and must contain: the name and address of the employing motor carrier; the applicant's name, address, date of birth, and social security number; addresses of residence during the preceding 3 years; the date submitted; driver's licensing authority, number, and expiration date; nature and extent of driving experience; a list of all motor vehicle accidents during the preceding 3 years; a list of all motor vehicle law violations during the preceding 3 years; a statement regarding any denial, revocation, or suspension of driving privileges; and a list of employers during the preceding 3 years (and 7 additional years for CDL applicants) with dates of employment and reasons for leaving.
+
+§ 391.23 Investigation and inquiries.
+
+(a) Except as provided in subpart G of this part, each motor carrier shall make the following investigations and inquiries with respect to each driver it employs: (1) An inquiry, within 30 days of the date the driver's employment begins, to each driver's licensing authority where the driver held or holds a motor vehicle operator's license or permit during the preceding 3 years, to obtain that driver's motor vehicle record covering that driver's prior 3-year driving history. (2) An investigation of the driver's safety performance history with Department of Transportation regulated employers during the preceding three years.
+
+(m)(1) The motor carrier must obtain an original or copy of the medical examiner's certificate issued in accordance with § 391.43, and any medical variance on which the certification is based, and verify the driver was certified by a medical examiner listed on the National Registry of Certified Medical Examiners, and place the records in the driver qualification file, before allowing the driver to operate a CMV.
+
+§ 391.25 Annual inquiry and review of driving record.
+
+(a) Except as provided in subpart G of this part, each motor carrier shall, at least once every 12 months, make an inquiry to obtain the motor vehicle record of each driver it employs, covering at least the preceding 12 months, to each driver's licensing authority where the driver held a commercial motor vehicle operator's license or permit during the time period.
+
+(b) Except as provided in subpart G of this part, each motor carrier shall, at least once every 12 months, review the motor vehicle record of each driver it employs to determine whether that driver meets minimum requirements for safe driving or is disqualified to drive a commercial motor vehicle pursuant to § 391.15.
+
+(1) The motor carrier must consider any evidence that the driver has violated any applicable Federal Motor Carrier Safety Regulations in this subchapter or Hazardous Materials Regulations (49 CFR chapter I, subchapter C).
+
+(2) The motor carrier must consider the driver's accident record and any evidence that the driver has violated laws governing the operation of motor vehicles, and must give great weight to violations, such as speeding, reckless driving, and operating while under the influence of alcohol or drugs, that indicate that the driver has exhibited a disregard for the safety of the public.
+
+(c)(1) A copy of the motor vehicle record required by paragraph (a) of this section shall be maintained in the driver's qualification file.
+
+(2) A note, including the name of the person who performed the review of the driving record required by paragraph (b) of this section and the date of such review, shall be maintained in the driver's qualification file.
+
+Subpart D—Tests
+
+§ 391.31 Road test.
+
+(a) Except as provided in subpart G, a person shall not drive a commercial motor vehicle unless he/she has first successfully completed a road test and has been issued a certificate of driver's road test in accordance with this section.
+
+(c) The road test must be of sufficient duration to enable the person who gives it to evaluate the skill of the person who takes it, including: the pretrip inspection; coupling and uncoupling of combination units; placing the commercial motor vehicle in operation; use of controls and emergency equipment; operating in traffic and while passing other vehicles; turning; braking and slowing by means other than braking; and backing and parking.
+
+§ 391.33 Equivalent of road test.
+
+(a) In place of, and as equivalent to, the road test required by § 391.31, a person who seeks to drive a commercial motor vehicle may present, and a motor carrier may accept: (1) A valid Commercial Driver's License issued to operate the specific category of vehicle, after successful completion of a road test in a commercial motor vehicle of the type intended; or (2) A copy of a valid certificate of driver's road test issued within the preceding 3 years.
+
+Subpart E—Physical Qualifications and Examinations
+
+§ 391.41 Physical qualifications for drivers.
+
+(a)(1)(i) A person subject to this part must not operate a commercial motor vehicle unless he or she is medically certified as physically qualified to do so, and, when on-duty, has on his or her person the original, or a copy, of a current medical examiner's certificate that he or she is physically qualified to drive a commercial motor vehicle.
+
+(3) A person is physically qualified to drive a commercial motor vehicle if: (i) That person meets the physical qualification standards in paragraph (b) of this section and has complied with the medical examination requirements in § 391.43; or (ii) That person obtained from FMCSA a medical variance from the physical qualification standards.
+
+(b) A person is physically qualified to drive a commercial motor vehicle if that person—(1) Has no loss of a foot, a leg, a hand, or an arm, or has been granted a skill performance evaluation certificate; (2) Has no impairment of a hand, finger, arm, foot, or leg that interferes with operating a commercial motor vehicle; (3) Has no established medical history or clinical diagnosis of diabetes mellitus currently treated with insulin for control, unless the person meets the requirements in § 391.46; (4) Has no current clinical diagnosis of myocardial infarction, angina pectoris, coronary insufficiency, thrombosis, or any other cardiovascular disease of a variety known to be accompanied by syncope, dyspnea, collapse, or congestive cardiac failure; (5) Has no established medical history or clinical diagnosis of a respiratory dysfunction likely to interfere with his/her ability to control and drive a commercial motor vehicle safely; (6) Has no current clinical diagnosis of high blood pressure likely to interfere with his/her ability to operate a commercial motor vehicle safely; (8) Has no established medical history or clinical diagnosis of epilepsy or any other condition which is likely to cause loss of consciousness or any loss of ability to control a commercial motor vehicle; (9) Has no mental, nervous, organic, or functional disease or psychiatric disorder likely to interfere with his/her ability to drive a commercial motor vehicle safely; (10) Has distant visual acuity of at least 20/40 (Snellen) in each eye without corrective lenses or visual acuity separately corrected to 20/40 (Snellen) or better with corrective lenses, field of vision of at least 70° in the horizontal meridian in each eye, and the ability to recognize the colors of traffic signals; (11) First perceives a forced whispered voice in the better ear at not less than 5 feet with or without a hearing aid, or does not have an average hearing loss in the better ear greater than 40 decibels; (12) Does not use any drug or substance identified in Schedule I, an amphetamine, a narcotic, or other habit-forming drug, except when the use is prescribed by a licensed medical practitioner familiar with the driver's medical history; and (13) Has no current clinical diagnosis of alcoholism.
+
+§ 391.43 Medical examination; certificate of physical examination.
+
+(a) Except as provided by paragraph (b) of this section, the medical examination must be performed by a medical examiner listed on the National Registry of Certified Medical Examiners under subpart D of part 390 of this chapter.
+
+(g) Upon completion of the medical examination required by this subpart: (1) The medical examiner must date and sign the Medical Examination Report and provide his or her full name, office address, and telephone number on the Report. (2) If the medical examiner finds that the person examined is physically qualified to operate a commercial motor vehicle in accordance with § 391.41(b), he or she must complete a certificate and furnish the original to the person who was examined.
+
+(i) Each original completed Medical Examination Report and a copy or electronic version of each medical examiner's certificate must be retained on file at the office of the medical examiner for at least 3 years from the date of examination.
+
+§ 391.45 Persons who must be medically examined and certified.
+
+The following persons must be medically examined and certified in accordance with § 391.43 as physically qualified to operate a commercial motor vehicle: (a) Any person who has not been medically examined and certified as physically qualified to operate a commercial motor vehicle; (b) Any driver who has not been medically examined and certified as qualified to operate a commercial motor vehicle during the preceding 24 months.
+
+§ 391.49 Alternative physical qualification standards for the loss or impairment of limbs.
+
+(a) A person who is not physically qualified to drive under § 391.41(b)(1) or (2) and who is otherwise qualified to drive a commercial motor vehicle, may drive a commercial motor vehicle if FMCSA has granted a Skill Performance Evaluation (SPE) Certificate to that person.
+
+Subpart F—Files and Records
+
+§ 391.51 General requirements for driver qualification files.
+
+(a) Each motor carrier shall maintain a driver qualification file for each driver it employs. A driver's qualification file may be combined with his/her personnel file.
+
+(b) The qualification file for a driver must include:
+
+(1) The driver's application for employment completed in accordance with § 391.21;
+
+(2) A copy of the motor vehicle record received from each driver's licensing authority pursuant to § 391.23(a)(1);
+
+(3) The certificate of driver's road test issued to the driver pursuant to § 391.31(e), or a copy of the license or certificate accepted as equivalent pursuant to § 391.33;
+
+(4) The motor vehicle record received from each driver's licensing authority pursuant to the annual driver record inquiry required by § 391.25(a);
+
+(5) A note relating to the annual review of the driver's driving record as required by § 391.25(c)(2);
+
+(6)(i) The medical examiner's certificate as required by § 391.43(g) or a legible copy of the certificate;
+
+(7) A Skill Performance Evaluation Certificate issued by FMCSA in accordance with § 391.49; or the Medical Exemption document issued by a Federal medical program in accordance with part 381 of this chapter; and
+
+(8) A note relating to verification of medical examiner listing on the National Registry of Certified Medical Examiners.
+
+(c) Except as provided in paragraph (d) of this section, each driver's qualification file shall be retained for as long as a driver is employed by that motor carrier and for three years thereafter.
+
+(d) The following records may be removed from a driver's qualification file three years after the date of execution: (1) The motor vehicle record received pursuant to the annual driver record inquiry required by § 391.25(a); (2) The note relating to the annual review of the driver's driving record required by § 391.25(c)(2); (3) The medical examiner's certificate required by § 391.43(g), a legible copy, or CDLIS MVR obtained; (4) Any medical variance issued by FMCSA including a Skill Performance Evaluation Certificate; and (5) The note relating to verification of medical examiner listing on the National Registry.

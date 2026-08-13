@@ -1,0 +1,106 @@
+SOURCE: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E
+PART 385—SAFETY FITNESS PROCEDURES
+
+Subpart E—Hazardous Materials Safety Permits
+
+§ 385.401 Hazardous materials safety permits: Purpose and scope.
+
+(a) This subpart contains the requirements for obtaining and maintaining a safety permit to transport certain hazardous materials. No one may transport the materials listed in § 385.403 without a safety permit required by this subpart.
+
+(b) This subpart includes: (1) Definitions of terms used in this subpart; (2) The list of hazardous materials that require a safety permit if transported in commerce; (3) The requirements and procedures a carrier must follow in order to be issued a safety permit and maintain a safety permit; (4) The procedures for a motor carrier to follow to initiate an administrative review of a denial, suspension, or revocation of a safety permit.
+
+§ 385.402 Hazardous materials safety permits: Definitions.
+
+Hazardous material has the same meaning as under § 171.8 of this title: A substance or material that the Secretary of Transportation has determined is capable of posing an unreasonable risk to health, safety, and property when transported in commerce, and has designated as hazardous under Sec. 5103 of Federal hazardous materials transportation law (49 U.S.C. 5103).
+
+Safety permit means a document issued by FMCSA that contains a permit number and confers authority to transport in commerce the hazardous materials listed in § 385.403.
+
+§ 385.403 Prohibited transportation without safety permit.
+
+A motor carrier may not transport in interstate or intrastate commerce any of the following hazardous materials, in the quantity indicated for each, unless the motor carrier holds a safety permit:
+
+(a) A highway route-controlled quantity of a Class 7 (radioactive) material, as defined in § 173.403 of this title;
+
+(b) More than 25 kg (55 pounds) net weight of a Division 1.1, 1.2, or 1.3 (explosive) material or articles or an amount of a Division 1.5 (explosive) material requiring placarding under part 172 of this title;
+
+(c) More than one liter (1.08 quarts) per package of a "material poisonous by inhalation," as defined in § 171.8 of this title, that meets the criteria for "hazard zone A," as specified in § 173.116(a) or § 173.133(a) of this title;
+
+(d) A "material poisonous by inhalation," in a "bulk packaging," both as defined in § 171.8 of this title, that meets the criteria for "hazard zone B," as specified in § 173.116(a) or § 173.133(a);
+
+(e) A "material poisonous by inhalation," as defined in § 171.8 of this title, that meets the criteria for "hazard zone C," or "hazard zone D," as specified in § 173.116(a) of this title, in a packaging having a capacity equal to or greater than 13,248 L (3,500) gallons; or
+
+(f) A shipment of methane (compressed or refrigerated liquid), natural gas (compressed or refrigerated liquid), or any other compressed or refrigerated liquefied gas with a methane content of at least 85 percent, in bulk packaging having a capacity equal to or greater than 13,248 L (3,500 gallons).
+
+§ 385.405T Application for safety permit.
+
+(a) Application form(s). (1) To apply for a new safety permit or renewal of the safety permit, a motor carrier must complete and submit Form MCS-150B, Combined Motor Carrier Identification Report and HM Permit Application. (2) The Form MCS-150B will also satisfy the requirements for obtaining and renewing a USDOT Number; there is no need to complete Form MCS-150, Motor Carrier Identification Report.
+
+(d) Updating information on Form MCS-150B. A motor carrier holding a safety permit must report to FMCSA any change in the information on its Form MCS-150B within 30 days of the change.
+
+§ 385.407 Requirements for a safety permit.
+
+(a) Motor carrier safety performance.
+
+(1) The motor carrier must have a "Satisfactory" safety rating assigned by either FMCSA, pursuant to the Safety Fitness Procedures of this part, or the State in which the motor carrier has its principal place of business, if the State has adopted and implemented safety fitness procedures that are equivalent to the procedures in subpart A of this part; and
+
+(2) FMCSA will not issue a safety permit to a motor carrier that:
+
+(i) Does not certify that it has a satisfactory security program as required in § 385.407(b);
+
+(ii) Has a crash rate in the top 30 percent of the national average as indicated in the FMCSA Motor Carrier Management Information System (MCMIS);
+
+(iii) Has a driver, vehicle, hazardous materials, or total out-of-service rate in the top 30 percent of the national average as indicated in the MCMIS; or
+
+(iv) Does not have the minimum financial responsibility required by § 387.9 of this chapter or an applicable State requirement.
+
+(b) Satisfactory security program. The motor carrier must certify that it has a satisfactory security program, including: (1) A security plan meeting the requirements of part 172, subpart I of this title, and addressing how the carrier will ensure the security of the written route plan required by this part; (2) A communications plan that allows for contact between the commercial motor vehicle operator and the motor carrier to meet the periodic contact requirements in § 385.415(c)(1); and (3) Successful completion by all hazmat employees of the security training required in § 172.704(a)(4) and (a)(5) of this title.
+
+(c) Registration with the Pipeline and Hazardous Materials Safety Administration (PHMSA). The motor carrier must be registered with the PHMSA in accordance with part 107, subpart G of this title.
+
+§ 385.409T Temporary safety permit.
+
+(a) If a motor carrier does not meet the criteria in § 385.407(a), FMCSA may issue it a temporary safety permit. To obtain a temporary safety permit a motor carrier must certify on Form MCS-150B that it is operating in full compliance with the HMRs; with the FMCSRs, and/or comparable State regulations, whichever is applicable; and with the minimum financial responsibility requirements in part 387 of this chapter or in State regulations, whichever is applicable.
+
+(c) A temporary safety permit shall be valid for 180 days after the date of issuance or until the motor carrier is assigned a new safety rating, whichever occurs first.
+
+§ 385.411 State-issued safety permit.
+
+A motor carrier must comply with the requirements of this subpart even if it has a State-issued safety permit. However, if FMCSA is able to verify that a motor carrier has a safety permit issued by a State under a program that FMCSA has determined to be equivalent to the provisions of this subpart, FMCSA will immediately issue a safety permit to the motor carrier upon receipt of an application in accordance with § 385.405T, without further inspection or investigation.
+
+§ 385.413 Proposed safety rating less than Satisfactory.
+
+(a) If a motor carrier receives a proposed safety rating that is less than Satisfactory and does not already have a safety permit, it will not be issued a safety permit (including a temporary safety permit) unless and until a Satisfactory safety rating is issued to the motor carrier.
+
+(b) If a motor carrier receives a proposed safety rating that is less than Satisfactory and holds a safety permit (including a temporary safety permit), the safety permit will be subject to revocation or suspension (see § 385.421).
+
+§ 385.415 Operational requirements for the transportation of a hazardous material for which a permit is required.
+
+(a) Information that must be carried in the vehicle. During transportation, the following must be maintained in each commercial motor vehicle that transports a hazardous material listed in § 385.403 and must be made available to an authorized official of a Federal, State, or local government agency upon request.
+
+(1) A copy of the safety permit or another document showing the permit number, provided that document clearly indicates the number is the FMCSA Safety Permit number;
+
+(2) A written route plan that meets the requirements of § 397.101 of this chapter for highway route-controlled Class 7 (radioactive) materials or § 397.67 of this chapter for Division 1.1, 1.2, and 1.3 (explosive) materials; and
+
+(3) The telephone number, including area code or country code, of an employee of the motor carrier or representative of the motor carrier who is familiar with the routing of the permitted material. The motor carrier employee or representative must be able to verify that the shipment is within the general area for the expected route for the permitted material. The telephone number, when called, must be answered directly by the motor carrier or its representative at all times while the permitted material is in transportation including storage incidental to transportation. Answering machines are not sufficient to meet this requirement.
+
+(b) Inspection of vehicle transporting Class 7 (radioactive) materials. Before a motor carrier may transport a highway route controlled quantity of a Class 7 (radioactive) material, the motor carrier must have a pre-trip inspection performed on each motor vehicle to be used to transport a highway route controlled quantity of a Class 7 (radioactive) material.
+
+(c) Additional requirements. (1) The operator of a motor vehicle used to transport a hazardous material listed in § 385.403 must follow the communications plan required in § 385.407(b)(2) to make contact with the carrier at the beginning and end of each duty tour, and at the pickup and delivery of each permitted load. The motor carrier or driver must maintain a record of communications for 6 months after the initial acceptance of a shipment of hazardous material for which a safety permit is required.
+
+§ 385.417 Availability of motor carrier's safety permit number.
+
+Upon request, a motor carrier must provide the number of its safety permit to a person who offers a hazardous material listed in § 385.403 for transportation in commerce. A motor carrier's permit number also will be available to the public on the FMCSA Safety and Fitness Electronic Records System website at https://safer.fmcsa.dot.gov.
+
+§ 385.419T Effective period of safety permit.
+
+Unless suspended or revoked, a safety permit (other than a temporary safety permit) is effective for two years.
+
+§ 385.421T Revocation or suspension of safety permit.
+
+(a) Grounds. A safety permit will be subject to revocation or suspension by FMCSA for reasons including: failure to submit a renewal application; providing false or misleading information; being issued a final safety rating that is less than Satisfactory; failure to maintain a satisfactory security plan; failure to comply with applicable FMCSR/HMR requirements in a manner showing the motor carrier is not fit to transport the hazardous materials listed in § 385.403; failure to comply with an out-of-service order; failure to maintain minimum financial responsibility; failure to maintain current hazardous materials registration with PHMSA; or loss of operating rights for failure to pay a civil penalty.
+
+(b) Determining whether a safety permit is revoked or suspended. A motor carrier's safety permit will be suspended the first time any of the conditions specified in paragraph (a) of this section are found to apply. A motor carrier's safety permit will be revoked if any of the conditions specified in paragraph (a) of this section are found to apply and the carrier's safety permit has been suspended in the past for any of the reasons specified in paragraph (a).
+
+§ 385.423 Administrative review of a denial, suspension, or revocation of a safety permit.
+
+A motor carrier has a right to an administrative review pursuant to specified procedures and conditions depending on the grounds for denial, suspension, or revocation.

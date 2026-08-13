@@ -1,0 +1,192 @@
+SOURCE: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396
+PART 396—INSPECTION, REPAIR, AND MAINTENANCE
+
+§ 396.1 Scope.
+
+(a) Every motor carrier, its officers, drivers, agents, representatives, and employees directly concerned with the inspection or maintenance of commercial motor vehicles must be knowledgeable of and comply with the rules of this part.
+
+(b) Every intermodal equipment provider, its officers, agents, representatives, and employees directly concerned with the inspection or maintenance of intermodal equipment interchanged or offered for interchange to motor carriers must be knowledgeable of and comply with the rules of this part.
+
+(c) This part does not apply to "covered farm vehicles," as defined in 49 CFR 390.5, or to the drivers of such vehicles.
+
+(d) The rules in this part do not apply to "pipeline welding trucks" as defined in 49 CFR 390.38(b).
+
+§ 396.3 Inspection, repair, and maintenance.
+
+(a) General. Every motor carrier and intermodal equipment provider must systematically inspect, repair, and maintain, or cause to be systematically inspected, repaired, and maintained, all motor vehicles and intermodal equipment subject to its control.
+
+(1) Parts and accessories shall be in safe and proper operating condition at all times. These include those specified in part 393 of this subchapter and any additional parts and accessories which may affect safety of operation, including but not limited to, frame and frame assemblies, suspension systems, axles and attaching parts, wheels and rims, and steering systems.
+
+(2) Pushout windows, emergency doors, and emergency door marking lights in buses shall be inspected at least every 90 days.
+
+(b) Required records. Motor carriers, except for a private motor carrier of passengers (nonbusiness), must maintain, or cause to be maintained, records for each motor vehicle they control for 30 consecutive days. These records must include: (1) An identification of the vehicle; (2) A means to indicate the nature and due date of the various inspection and maintenance operations to be performed; (3) A record of inspection, repairs, and maintenance indicating their date and nature; and (4) A record of tests conducted on pushout windows, emergency doors, and emergency door marking lights on buses.
+
+(c) Record retention. The records required by this section shall be retained where the vehicle is either housed or maintained for a period of 1 year and for 6 months after the motor vehicle leaves the motor carrier's control.
+
+§ 396.5 Lubrication.
+
+Every motor carrier shall ensure that each motor vehicle subject to its control is—(a) Properly lubricated; and (b) Free of oil and grease leaks.
+
+§ 396.7 Unsafe operations forbidden.
+
+(a) General. A motor vehicle shall not be operated in such a condition as to likely cause an accident or a breakdown of the vehicle.
+
+(b) Exemption. Any motor vehicle discovered to be in an unsafe condition while being operated on the highway may be continued in operation only to the nearest place where repairs can safely be effected, if it is less hazardous to the public than to permit the vehicle to remain on the highway.
+
+§ 396.9 Inspection of motor vehicles and intermodal equipment in operation.
+
+(a) Personnel authorized to perform inspections. Every special agent of the FMCSA is authorized to enter upon and perform inspections of a motor carrier's vehicles in operation and intermodal equipment in operation.
+
+(c) Motor vehicles and intermodal equipment declared "out-of-service." (1) Authorized personnel shall declare and mark "out-of-service" any motor vehicle or intermodal equipment which by reason of its mechanical condition or loading would likely cause an accident or a breakdown. (2) No motor carrier or intermodal equipment provider shall require or permit any person to operate, nor shall any person operate, any motor vehicle or intermodal equipment declared and marked "out-of-service" until all repairs required by the "out-of-service notice" have been satisfactorily completed.
+
+(d) Motor carrier or intermodal equipment provider disposition. (1) The driver of any motor vehicle who receives an inspection report shall deliver a copy to the motor carrier operating the vehicle upon arrival at the next terminal or facility. (3) Within 15 days following the date of the inspection, the motor carrier or intermodal equipment provider shall certify that all violations noted have been corrected.
+
+§ 396.11 Driver vehicle inspection report(s).
+
+(a) Equipment provided by motor carrier. (1) Report required. Every motor carrier shall require its drivers to report, and every driver shall prepare a report in writing at the completion of each day's work on each vehicle operated. The report shall cover at least the following parts and accessories: service brakes including trailer brake connections; parking brake; steering mechanism; lighting devices and reflectors; tires; horn; windshield wipers; rear vision mirrors; coupling devices; wheels and rims; emergency equipment.
+
+(3) Corrective action. (i) Prior to requiring or permitting a driver to operate a vehicle, every motor carrier or its agent shall repair any defect or deficiency listed on the driver vehicle inspection report which would be likely to affect the safety of operation of the vehicle.
+
+(4) Retention period for reports. Every motor carrier shall maintain the driver vehicle inspection report, the certification of repairs, and the certification of the driver's review for three months from the date the written report was prepared.
+
+(5) Exceptions. The rules in this section shall not apply to a private motor carrier of passengers (nonbusiness), a driveaway-towaway operation, or any motor carrier operating only one commercial motor vehicle.
+
+§ 396.12 Procedures for intermodal equipment providers to accept reports required by § 390.42(b) of this chapter.
+
+(a) System for reports. Each intermodal equipment provider must establish a system for motor carriers and drivers to report to it any damage, defects, or deficiencies of intermodal equipment.
+
+§ 396.13 Driver inspection.
+
+Before driving a motor vehicle, the driver shall: (a) Be satisfied that the motor vehicle is in safe operating condition; (b) Review the last driver vehicle inspection report if required by § 396.11(a)(2)(i); and (c) Sign the report to acknowledge that the driver has reviewed it and that there is a certification that the required repairs have been performed.
+
+§ 396.15 Driveaway-towaway operations and inspections.
+
+(a) General. Every motor carrier, with respect to motor vehicles engaged in driveaway-towaway operations, shall comply with the requirements of this part. Exception: Maintenance records required by § 396.3, the vehicle inspection report required by § 396.11, and the periodic inspection required by § 396.17 of this part shall not be required for any vehicle which is part of the shipment being delivered.
+
+(b) Pre-trip inspection. Before the beginning of any driveaway-towaway operation of motor vehicles in combination, the motor carrier shall make a careful inspection and test to ascertain that: (1) The tow-bar or saddle-mount connections are properly secured to the towed and towing vehicle; (2) They function adequately without cramping or binding of any of the parts; and (3) The towed motor vehicle follows substantially in the path of the towing vehicle without whipping or swerving.
+
+§ 396.17 Periodic inspection.
+
+(a) Every commercial motor vehicle must be inspected as required by this section. The inspection must include, at a minimum, the parts and accessories set forth in appendix A to this part. The term commercial motor vehicle includes each vehicle in a combination vehicle.
+
+(b) Except as provided in § 396.23 and this paragraph, motor carriers must inspect or cause to be inspected all motor vehicles subject to their control. Intermodal equipment providers must inspect or cause to be inspected intermodal equipment that is interchanged or intended for interchange to motor carriers in intermodal transportation.
+
+(c) A motor carrier must not use a commercial motor vehicle, and an intermodal equipment provider must not tender equipment to a motor carrier for interchange, unless each component identified in appendix A to this part has passed an inspection in accordance with the terms of this section at least once during the preceding 12 months and documentation of such inspection is on the vehicle. The documentation may be: (1) The inspection report prepared in accordance with § 396.21(a), or (2) Other forms of documentation, based on the inspection report (e.g., sticker or decal), which contains: the date of inspection; name and address of the motor carrier, intermodal equipment provider, or other entity where the inspection report is maintained; information uniquely identifying the vehicle inspected; and a certification that the vehicle has passed an inspection in accordance with § 396.17.
+
+(d) A motor carrier may perform the required annual inspection for vehicles under the carrier's control which are not subject to an inspection under § 396.23(a)(1).
+
+(e) In lieu of self-inspection, a motor carrier or intermodal equipment provider responsible for the inspection may choose to have a commercial garage, fleet leasing company, truck stop, or other similar commercial business perform the inspection as its agent, provided that business operates and maintains facilities appropriate for commercial vehicle inspections and it employs qualified inspectors, as required by § 396.19.
+
+(f) Vehicles passing periodic inspections performed under the auspices of any State government or equivalent jurisdiction in the Canadian Provinces, the Yukon Territory, and Mexico, meeting the minimum standards contained in appendix A to this part, will be considered to have met the requirements of an annual inspection for a period of 12 months commencing from the last day of the month in which the inspection was performed.
+
+(g) It is the responsibility of the motor carrier or intermodal equipment provider to ensure that all parts and accessories on commercial motor vehicles intended for use in interstate commerce for which they are responsible are maintained at, or promptly repaired to, the minimum standards set forth in appendix A to this part.
+
+(h) Failure to perform properly the annual inspection required by this section shall cause the motor carrier or intermodal equipment provider to be subject to the penalty provisions of 49 U.S.C. 521(b).
+
+§ 396.19 Inspector qualifications.
+
+(a) Motor carriers and intermodal equipment providers must ensure that individuals performing annual inspections under § 396.17(d) or (e) are qualified as follows: (1) Understand the inspection criteria set forth in part 393 and appendix A to this part and can identify defective components; (2) Are knowledgeable of and have mastered the methods, procedures, tools and equipment used when performing an inspection; and (3) Are capable of performing an inspection by reason of experience, training, or both — either successful completion of a Federal- or State-sponsored training program, or a combination of training or experience totaling at least 1 year.
+
+(b) Motor carriers and intermodal equipment providers must retain evidence of that individual's qualifications under this section for the period during which that individual is performing annual motor vehicle inspections, and for one year thereafter.
+
+§ 396.21 Periodic inspection recordkeeping requirements.
+
+(a) The qualified inspector performing the inspection shall prepare a report that: (1) Identifies the individual performing the inspection; (2) Identifies the motor carrier operating the vehicle; (3) Identifies the date of the inspection; (4) Identifies the vehicle inspected; (5) Identifies the vehicle components inspected and describes the results, including components not meeting minimum standards; and (6) Certifies the accuracy and completeness of the inspection.
+
+(b)(1) The original or a copy of the inspection report shall be retained by the motor carrier, intermodal equipment provider, or other entity responsible for the inspection for a period of fourteen months from the date of the inspection report.
+
+§ 396.23 Equivalent to periodic inspection.
+
+(a)(1) If a commercial motor vehicle is subject to a mandatory inspection program that is determined by the Administrator to be as effective as § 396.17, the motor carrier or intermodal equipment provider must meet the requirement of § 396.17 through that inspection program. Commercial motor vehicle inspections may be conducted by government personnel, at commercial facilities authorized by a State government or equivalent jurisdiction in the Canadian Provinces, the Yukon Territory, or Mexico, or by the motor carrier or intermodal equipment provider itself under the auspices of a self-inspection program authorized by such a jurisdiction.
+
+(2) Should FMCSA determine that an inspection program, in whole or in part, is not as effective as § 396.17, the motor carrier or intermodal equipment provider must ensure that the periodic inspection required by § 396.17 is performed on all commercial motor vehicles under its control in a manner specified in § 396.17.
+
+§ 396.25 Qualifications of brake inspectors.
+
+(a) Motor carriers and intermodal equipment providers must ensure that all inspections, maintenance, repairs or service to the brakes of its commercial motor vehicles, are performed in compliance with the requirements of this section.
+
+(c) No motor carrier or intermodal equipment provider may require or permit any employee who does not meet the minimum brake inspector qualifications of paragraph (d) of this section to be responsible for the inspection, maintenance, service or repairs of any brakes on its commercial motor vehicles.
+
+(d) The motor carrier or intermodal equipment provider must ensure that each brake inspector is qualified as follows: (1) Understands the brake service or inspection task to be accomplished and can perform that task; (2) Is knowledgeable of and has mastered the methods, procedures, tools and equipment used; and (3) Is capable of performing the assigned brake service or inspection by reason of experience, training, or both totaling at least one year.
+
+Appendix A to Part 396—Minimum Periodic Inspection Standards
+
+A vehicle does not pass an inspection if it has one of the following defects or deficiencies:
+
+1. Brake System.
+
+a. Service brakes.
+
+(1) Absence of braking action on any axle required to have brakes upon application of the service brakes (such as missing brakes or brake shoe(s) failing to move upon application of a wedge, S-cam, cam, or disc brake).
+
+(2) Missing or broken mechanical components including: shoes, lining, pads, springs, anchor pins, spiders, cam rollers, push-rods, and air chamber mounting bolts.
+
+(3) Loose brake components including air chambers, spiders, and cam shaft support brackets.
+
+(4) Audible air leak at brake chamber (Example-ruptured diaphragm, loose chamber clamp, etc.).
+
+(6) Brake linings or pads. (a) Lining or pad is not firmly attached to the shoe; (b) Saturated with oil, grease, or brake fluid; or (c) Non-steering axles: Lining with a thickness less than 1/4 inch at the shoe center for air drum brakes, 1/16 inch or less at the shoe center for hydraulic and electric drum brakes, and less than 1/8 inch for air disc brakes. (d) Steering axles: Lining with a thickness less than 1/4 inch at the shoe center for drum brakes, less than 1/8 inch for air disc brakes and 1/16 inch or less for hydraulic disc and electric brakes.
+
+(7) Missing brake on any axle required to have brakes.
+
+b. Parking Brake System. No brakes on the vehicle or combination are applied upon actuation of the parking brake control, including driveline hand controlled parking brakes.
+
+c. Brake Drums or Rotors. (1) With any external crack or cracks that open upon brake application. (2) Any portion of the drum or rotor missing or in danger of falling away.
+
+d. Brake Hose. (1) Hose with any damage extending through the outer reinforcement ply. (2) Bulge or swelling when air pressure is applied. (3) Any audible leaks. (5) Air hose cracked, broken or crimped.
+
+f. Low Pressure Warning Device missing, inoperative, or does not operate at 55 psi and below, or 1/2 the governor cut-out pressure, whichever is less.
+
+g. Tractor Protection Valve. Inoperable or missing tractor protection valve(s) on power unit.
+
+l. Antilock Brake System (1) Missing ABS malfunction indicator components. (2) ABS malfunction indicator that does not illuminate when power is first applied to the ABS controller during initial power up. (3) ABS malfunction indicator that stays illuminated while power is continuously applied to the ABS controller.
+
+m. Automatic Brake Adjusters (1) Failure to maintain a brake within the brake stroke limit specified by the vehicle manufacturer. (2) Any automatic brake adjuster that has been replaced with a manual adjuster.
+
+2. Coupling devices.
+
+a. Fifth Wheels. (1) Mounting to frame — any fasteners missing or ineffective, any movement between mounting components, any mounting angle iron cracked or broken. (4) Lower coupler — horizontal movement between the upper and lower fifth wheel halves exceeds 1/2 inch; kingpin not properly engaged; locking mechanism parts missing, broken, or deformed to the extent the kingpin is not securely held.
+
+3. Exhaust System.
+
+a. Any exhaust system determined to be leaking at a point forward of or directly below the driver/sleeper compartment.
+
+4. Fuel System.
+
+a. A fuel system with a visible leak at any point. b. A fuel tank filler cap missing. c. A fuel tank not securely attached to the motor vehicle by reason of loose, broken or missing mounting bolts or brackets.
+
+5. Lighting Devices. All lighting devices and reflectors required by part 393 shall be operable.
+
+6. Safe Loading.
+
+a. Part(s) of vehicle or condition of loading such that the spare tire or any part of the load or dunnage can fall onto the roadway. c. Container securement devices on intermodal equipment that are cracked, broken, loose, or missing.
+
+7. Steering Mechanism.
+
+a. Steering Wheel Free Play limits vary by wheel diameter and steering system type. c. Front Axle Beam and All Steering Components Other Than Steering Column — any cracks, any obvious welded repairs.
+
+8. Suspension.
+
+a. Any U-bolt(s), spring hanger(s), or other axle positioning part(s) cracked, broken, loose or missing resulting in shifting of an axle from its normal position. b. Spring Assembly — any leaves in a leaf spring assembly broken or missing; any broken main leaf; coil spring broken; deflated air suspension (system failure, leak, etc.).
+
+9. Frame.
+
+a. Frame Members — any cracked, broken, loose, or sagging frame member; any loose or missing fasteners attaching functional components.
+
+10. Tires.
+
+a. Any tire on any steering axle of a power unit with less than 4/32 inch tread when measured at any point on a major tread groove, or with body ply or belt material exposed through the tread or sidewall, or any tread or sidewall separation, or a cut where ply or belt material is exposed, or is flat or has a noticeable leak.
+
+b. All tires other than steering axle tires — with less than 2/32 inch tread when measured at any point on a major tread groove.
+
+11. Wheels and Rims.
+
+a. Lock or Side Ring — bent, broken, cracked, improperly seated, sprung or mismatched. b. Wheels and rims cracked or broken or has elongated bolt holes.
+
+12. Windshield Glazing. Any crack, discoloration or vision reducing matter, subject to specified exceptions for minor cracks and damage.
+
+13. Windshield Wipers. Any power unit that has an inoperative wiper, or missing or damaged parts that render it ineffective.
+
+15. Rear Impact Guard.
+
+a. Trailers and semitrailers with a GVWR of 4,536 kg (10,001 lbs.) or more, manufactured on or after January 26, 1998 — missing guard; guard not securely attached; guard horizontal member positioning outside specified tolerances.

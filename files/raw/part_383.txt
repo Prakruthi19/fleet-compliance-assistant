@@ -1,0 +1,117 @@
+SOURCE: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383
+SOURCE: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383/subpart-E/section-383.71
+PART 383—COMMERCIAL DRIVER'S LICENSE STANDARDS; REQUIREMENTS AND PENALTIES
+
+Subpart A—General
+
+§ 383.1 Purpose and scope.
+
+(a) The purpose of this part is to help reduce or prevent truck and bus accidents, fatalities, and injuries by requiring drivers to have a single commercial motor vehicle driver's license and by disqualifying drivers who operate commercial motor vehicles in an unsafe manner.
+
+(b) This part: (1) Prohibits a commercial motor vehicle driver from having more than one commercial motor vehicle driver's license; (2) Requires a driver to notify the driver's current employer and the driver's State of domicile of certain convictions; (3) Requires that a driver provide previous employment information when applying for employment as an operator of a commercial motor vehicle; (4) Prohibits an employer from allowing a person with a suspended license to operate a commercial motor vehicle; (5) Establishes periods of disqualification and penalties for those persons convicted of certain criminal and other offenses and serious traffic violations; (6) Establishes testing and licensing requirements for commercial motor vehicle operators; (8) Sets forth commercial motor vehicle groups and endorsements.
+
+§ 383.3 Applicability.
+
+(a) The rules in this part apply to every person who operates a commercial motor vehicle (CMV) in interstate, foreign, or intrastate commerce, to all employers of such persons, and to all States.
+
+(c) Exception for certain military drivers. Each State must exempt from the requirements of this part individuals who operate CMVs for military purposes.
+
+(d) Exception for farmers, firefighters, emergency response vehicle drivers, and drivers removing snow and ice. A State may, at its discretion, exempt certain individuals from the requirements of this part.
+
+(h) Exception for drivers of "covered farm vehicles." The rules in this part do not apply to a driver of a "covered farm vehicle," as defined in § 390.5 of this chapter.
+
+(i) Hazardous materials endorsement exemption for certain drivers transporting diesel or jet fuel. A State may waive the requirement for a holder of a Class A commercial driver's license to obtain a hazardous materials endorsement under this part, under specified narrow conditions involving custom harvester, agrichemical, farm retail, livestock feeder, or agricultural aviation operations transporting 1,000 gallons or less of diesel or jet fuel.
+
+§ 383.5 Definitions.
+
+As used in this part:
+
+Commercial driver's license (CDL) means a license issued to an individual by a State or other jurisdiction of domicile, in accordance with the standards contained in this part, which authorizes the individual to operate a class of a commercial motor vehicle.
+
+Commercial motor vehicle (CMV) means a motor vehicle or combination of motor vehicles used in commerce to transport passengers or property if the motor vehicle is a—
+
+(1) Combination Vehicle (Group A)—having a gross combination weight rating or gross combination weight of 11,794 kilograms or more (26,001 pounds or more), inclusive of a towed unit(s) with a gross vehicle weight rating or gross vehicle weight of more than 4,536 kilograms (10,000 pounds); or
+
+(2) Heavy Straight Vehicle (Group B)—having a gross vehicle weight rating or gross vehicle weight of 11,794 or more kilograms (26,001 pounds or more); or
+
+(3) Small Vehicle (Group C) that does not meet Group A or B requirements but that either—(i) Is designed to transport 16 or more passengers, including the driver; or (ii) Is of any size and is used in the transportation of hazardous materials as defined in this section.
+
+Disqualification means any of the following three actions: (1) The suspension, revocation, or cancellation of a CLP or CDL by the State or jurisdiction of issuance. (2) Any withdrawal of a person's privileges to drive a CMV by a State or other jurisdiction as the result of a violation of State or local law relating to motor vehicle traffic control. (3) A determination by the FMCSA that a person is not qualified to operate a commercial motor vehicle under part 391 of this subchapter.
+
+Endorsement means an authorization to an individual's CLP or CDL required to permit the individual to operate certain types of commercial motor vehicles.
+
+Hazardous materials means any material that has been designated as hazardous under 49 U.S.C. 5103 and is required to be placarded under subpart F of 49 CFR part 172 or any quantity of a material listed as a select agent or toxin in 42 CFR part 73.
+
+Tank vehicle means any commercial motor vehicle that is designed to transport any liquid or gaseous materials within a tank or tanks having an individual rated capacity of more than 119 gallons and an aggregate rated capacity of 1,000 gallons or more that is either permanently or temporarily attached to the vehicle or the chassis.
+
+§ 383.7 Validity of CDL issued by decertified State.
+
+A CDL issued by a State prior to the date the State is notified by the Administrator that the State is prohibited from issuing CDLs will remain valid until its stated expiration date.
+
+Subpart B—Single License Requirement
+
+§ 383.21 Number of drivers' licenses.
+
+No person who operates a commercial motor vehicle shall at any time have more than one driver's license.
+
+§ 383.23 Commercial driver's license.
+
+(a) General rule. (1) No person shall operate a CMV unless such person has taken and passed knowledge and driving skills tests for a CLP or CDL that meet the Federal standards contained in subparts F, G, and H of this part for the CMV that person operates or expects to operate. (2) No person may legally operate a CMV unless such person possesses a CDL which meets the standards contained in subpart J of this part, issued by his/her State or jurisdiction of domicile.
+
+§ 383.25 Commercial learner's permit (CLP).
+
+(a) A CLP is considered a valid CDL for purposes of behind-the-wheel training on public roads or highways, if minimum conditions are met, including that the CLP holder is accompanied by the holder of a valid CDL at all times, and:
+
+(6) The CLP holder does not operate a commercial motor vehicle transporting hazardous materials as defined in § 383.5.
+
+Subpart C—Notification Requirements and Employer Responsibilities
+
+§ 383.31 Notification of convictions for driver violations.
+
+(a) Each person who operates a commercial motor vehicle, who has a commercial driver's license issued by a State or jurisdiction, and who is convicted of violating, in any type of motor vehicle, a State or local law relating to motor vehicle traffic control (other than a parking violation), shall notify his/her current employer of such conviction. The notification must be made within 30 days after the date that the person has been convicted.
+
+§ 383.35 Notification of previous employment.
+
+(a) Any person applying for employment as an operator of a commercial motor vehicle shall provide at the time of application for employment specified employment history information for the 10 years preceding the date the application is submitted, including a list of the names and addresses of the applicant's previous employers, the dates the applicant was employed, and the reason for leaving.
+
+§ 383.37 Employer responsibilities.
+
+No employer may allow, require, permit, or authorize a driver to operate a CMV in the United States if the employer knows or should reasonably know that: (a) The driver does not have a current CLP or CDL or does not have a CLP or CDL with the proper class or endorsements. (b) The driver has a CLP or CDL disqualified by a State, has lost the right to operate a CMV in a State, or has been disqualified from operating a CMV. (d) The driver, or the CMV the driver is operating, or the motor carrier operation, is subject to an out-of-service order.
+
+Subpart D—Driver Disqualifications and Penalties
+
+§ 383.51 Disqualification of drivers.
+
+(a) General. (1) A person required to have a CLP or CDL who is disqualified must not drive a CMV. (2) An employer must not knowingly allow, require, permit, or authorize a driver who is disqualified to drive a CMV.
+
+(b) Disqualification for major offenses (Table 1). For a first conviction while operating a CMV transporting hazardous materials, offenses including being under the influence of alcohol or a controlled substance, having an alcohol concentration of 0.04 or greater, refusing an alcohol test, leaving the scene of an accident, using the vehicle to commit a felony, driving while already disqualified, or causing a fatality through negligent operation, each result in disqualification for 3 years (versus 1 year for the same offense in a non-hazmat CMV). A second conviction of any combination of these offenses results in lifetime disqualification.
+
+(e) Disqualification for violating out-of-service orders (Table 4). A first conviction for violating a driver or vehicle out-of-service order while transporting hazardous materials as defined in § 383.5, or while operating a vehicle designed to transport 16 or more passengers, results in disqualification for no less than 180 days or more than 2 years (versus 180 days to 1 year for nonhazardous materials). A second conviction within a 10-year period results in disqualification for no less than 3 years or more than 5 years.
+
+§ 383.53 Penalties.
+
+(a) General rule. Any person who violates the rules set forth in subparts B and C of this part may be subject to civil or criminal penalties under 49 U.S.C. 521(b).
+
+Subpart E—Testing and Licensing Procedures
+
+§ 383.71 Driver application and certification procedures.
+
+(a) Commercial Learner's Permit. Prior to obtaining a CLP, a person must meet the following requirements: (1) The person must be 18 years of age or older and provide proof of his/her age. (2) The person must have taken and passed a general knowledge test that meets the Federal standards contained in subparts F, G, and H of this part for the commercial motor vehicle group that person operates or expects to operate. (8) A person seeking a passenger (P), school bus (S) or tank vehicle (N) endorsement must have taken and passed the endorsement knowledge test for the specific endorsement. (10) Beginning on February 7, 2022, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL for the first time, or a skills test for a passenger (P) or school bus (S) endorsement for the first time, or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.
+
+(b) Initial Commercial Driver's License. Prior to obtaining a CDL, a person must meet all of the following requirements:
+
+(1) Initial Commercial Driver's License applications submitted on or after January 30, 2012. Any person applying for a CDL on or after January 30, 2012, must meet the requirements set forth in paragraphs (b)(2) through (10), and (h) of this section, and make one of the following applicable certifications: (i) Non-excepted interstate — a person must certify that he/she operates or expects to operate in interstate commerce, is both subject to and meets the qualification requirements under 49 CFR part 391, and is required to obtain a medical examiner's certificate by § 391.45 of this chapter; (ii) Excepted interstate; (iii) Non-excepted intrastate; or (iv) Excepted intrastate.
+
+(2) The person must pass a driving or skills test in accordance with the standards contained in subparts F, G, and H of this part taken in a motor vehicle that is representative of the type of motor vehicle the person operates or expects to operate.
+
+(8) If the person is applying for a hazardous materials endorsement, he/she must comply with Transportation Security Administration requirements codified in 49 CFR part 1572. A lawful permanent resident of the United States requesting a hazardous materials endorsement must additionally provide his/her U.S. Citizenship and Immigration Services (USCIS) Alien registration number.
+
+(11) Beginning on February 7, 2022, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL, a passenger (P) or school bus (S) endorsement for the first time or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.
+
+(h) Medical certification documentation required by the State. An applicant or CLP or CDL holder who certifies to non-excepted, interstate driving operations according to § 383.71(b)(1)(i) must comply with applicable requirements: (1) New CLP and CDL applicants — on or after June 23, 2025, must be medically examined and certified in accordance with 49 CFR 391.43 as medically qualified to operate a CMV by a medical examiner, as defined in 49 CFR 390.5. (3) Maintaining the medical certification status of "certified" — on or after June 23, 2025, a CLP or CDL holder who certifies non-excepted, interstate operation must continue to be medically examined and certified in accordance with 49 CFR 391.43.
+
+Subpart G—Required Knowledge and Skills
+
+§ 383.121 Requirements for hazardous materials endorsement.
+
+Every driver who operates a commercial motor vehicle transporting hazardous materials that require the motor vehicle to be placarded under 49 CFR part 172, subpart F must have knowledge covering: the regulatory requirements for shipping papers, package marking, labeling, and placarding requirements; the health and environmental effects of exposure to hazardous materials; the practical exercises regarding placarding a vehicle; hazardous materials markings, communications, and emergency response information requirements; and driving and parking rules covering these materials.

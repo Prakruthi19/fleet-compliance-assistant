@@ -1,0 +1,122 @@
+[
+  {
+    "id": "q1",
+    "question": "How often must a commercial motor vehicle undergo a periodic inspection?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["396-section-396-17"]
+  },
+  {
+    "id": "q2",
+    "question": "Does a state-performed annual inspection count toward the federal periodic inspection requirement?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["396-section-396-17"]
+  },
+  {
+    "id": "q3",
+    "question": "What brake defects cause a vehicle to fail its periodic inspection?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["396-appendix-a-to-part-396-minimum-periodic-inspection-standards"]
+  },
+  {
+    "id": "q4",
+    "question": "How often must a motor carrier review a driver's motor vehicle record?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["391-section-391-25"]
+  },
+  {
+    "id": "q5",
+    "question": "How long must a driver qualification file be retained after a driver leaves the company?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["391-section-391-51"]
+  },
+  {
+    "id": "q6",
+    "question": "What training must a driver complete before taking the knowledge test for a hazmat endorsement?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["383-section-383-71"]
+  },
+  {
+    "id": "q7",
+    "question": "Must a vehicle carrying explosives always be attended by the driver?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["397-section-397-5"]
+  },
+  {
+    "id": "q8",
+    "question": "What documents must be carried in the vehicle when transporting a hazmat-permitted material?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["385-section-385-415"]
+  },
+  {
+    "id": "q9",
+    "question": "What routing precautions must a motor carrier take when transporting hazardous materials through populated areas?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["397-section-397-67"]
+  },
+  {
+    "id": "q10",
+    "question": "Who is authorized to perform the medical examination confirming a driver is physically qualified to drive?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["391-section-391-43"]
+  },
+  {
+    "id": "q11",
+    "question": "What knowledge must a driver have to earn a hazardous materials endorsement on their CDL?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["383-section-383-121"]
+  },
+  {
+    "id": "q12",
+    "question": "How long does a carrier have to correct violations noted on a roadside inspection report?",
+    "hop_type": "single",
+    "expected_chunk_ids": ["396-section-396-9"]
+  },
+  {
+    "id": "q13",
+    "question": "If a Class 8 truck is hauling hazardous materials, what inspection interval and driver qualification rules apply?",
+    "hop_type": "multi",
+    "expected_chunk_ids": ["396-section-396-17", "391-section-391-25", "383-section-383-71"]
+  },
+  {
+    "id": "q14",
+    "question": "What safety rating must a carrier hold to get a hazmat safety permit, and how often must it separately review its drivers' records?",
+    "hop_type": "multi",
+    "expected_chunk_ids": ["385-section-385-407", "391-section-391-25"]
+  },
+  {
+    "id": "q15",
+    "question": "What paperwork must be in the cab for a permitted hazmat load, and what training must the driver have completed to legally hold the hazmat endorsement in the first place?",
+    "hop_type": "multi",
+    "expected_chunk_ids": ["385-section-385-415", "383-section-383-71"]
+  },
+  {
+    "id": "q16",
+    "question": "If a carrier uses an alternative inspection program instead of the standard periodic inspection, what happens if FMCSA finds it inadequate, and what safety-rating condition must the carrier separately meet to hold a hazmat permit?",
+    "hop_type": "multi",
+    "expected_chunk_ids": ["396-section-396-23", "385-section-385-407"]
+  },
+  {
+    "id": "q17",
+    "question": "For a truck hauling explosives, what routing precautions must the carrier take, and what documentation must be carried for the permitted load?",
+    "hop_type": "multi",
+    "expected_chunk_ids": ["397-section-397-67", "385-section-385-415"]
+  },
+  {
+    "id": "q18",
+    "question": "What brake-related defects fail a periodic inspection, and separately, how long are driver qualification files kept?",
+    "hop_type": "multi",
+    "expected_chunk_ids": ["396-appendix-a-to-part-396-minimum-periodic-inspection-standards", "391-section-391-51"]
+  },
+  {
+    "id": "q19",
+    "question": "A driver was disqualified for an out-of-service order violation while hauling hazmat. How long is that disqualification, and what does the carrier's annual driver record review need to separately account for?",
+    "hop_type": "multi",
+    "expected_chunk_ids": ["383-section-383-51", "391-section-391-25"]
+  },
+  {
+    "id": "q20",
+    "question": "Who is required to comply with the inspection and maintenance rules under Part 396, and what is the general obligation on motor carriers to inspect and maintain their vehicles?",
+    "hop_type": "multi",
+    "expected_chunk_ids": ["396-section-396-1", "396-section-396-3"]
+  }
+]

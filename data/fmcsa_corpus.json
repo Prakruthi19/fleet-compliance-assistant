@@ -1,0 +1,686 @@
+[
+  {
+    "id": "383-section-383-1",
+    "part": "383",
+    "section": "\u00a7 383.1 Purpose and scope.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.1 Purpose and scope.",
+    "text": "(a) The purpose of this part is to help reduce or prevent truck and bus accidents, fatalities, and injuries by requiring drivers to have a single commercial motor vehicle driver's license and by disqualifying drivers who operate commercial motor vehicles in an unsafe manner.\n\n(b) This part: (1) Prohibits a commercial motor vehicle driver from having more than one commercial motor vehicle driver's license; (2) Requires a driver to notify the driver's current employer and the driver's State of domicile of certain convictions; (3) Requires that a driver provide previous employment information when applying for employment as an operator of a commercial motor vehicle; (4) Prohibits an employer from allowing a person with a suspended license to operate a commercial motor vehicle; (5) Establishes periods of disqualification and penalties for those persons convicted of certain criminal and other offenses and serious traffic violations; (6) Establishes testing and licensing requirements for commercial motor vehicle operators; (8) Sets forth commercial motor vehicle groups and endorsements."
+  },
+  {
+    "id": "383-section-383-3",
+    "part": "383",
+    "section": "\u00a7 383.3 Applicability.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.3 Applicability.",
+    "text": "(a) The rules in this part apply to every person who operates a commercial motor vehicle (CMV) in interstate, foreign, or intrastate commerce, to all employers of such persons, and to all States.\n\n(c) Exception for certain military drivers. Each State must exempt from the requirements of this part individuals who operate CMVs for military purposes.\n\n(d) Exception for farmers, firefighters, emergency response vehicle drivers, and drivers removing snow and ice. A State may, at its discretion, exempt certain individuals from the requirements of this part.\n\n(h) Exception for drivers of \"covered farm vehicles.\" The rules in this part do not apply to a driver of a \"covered farm vehicle,\" as defined in \u00a7 390.5 of this chapter.\n\n(i) Hazardous materials endorsement exemption for certain drivers transporting diesel or jet fuel. A State may waive the requirement for a holder of a Class A commercial driver's license to obtain a hazardous materials endorsement under this part, under specified narrow conditions involving custom harvester, agrichemical, farm retail, livestock feeder, or agricultural aviation operations transporting 1,000 gallons or less of diesel or jet fuel."
+  },
+  {
+    "id": "383-section-383-5",
+    "part": "383",
+    "section": "\u00a7 383.5 Definitions.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.5 Definitions.",
+    "text": "As used in this part:\n\nCommercial driver's license (CDL) means a license issued to an individual by a State or other jurisdiction of domicile, in accordance with the standards contained in this part, which authorizes the individual to operate a class of a commercial motor vehicle.\n\nCommercial motor vehicle (CMV) means a motor vehicle or combination of motor vehicles used in commerce to transport passengers or property if the motor vehicle is a\u2014\n\n(1) Combination Vehicle (Group A)\u2014having a gross combination weight rating or gross combination weight of 11,794 kilograms or more (26,001 pounds or more), inclusive of a towed unit(s) with a gross vehicle weight rating or gross vehicle weight of more than 4,536 kilograms (10,000 pounds); or\n\n(2) Heavy Straight Vehicle (Group B)\u2014having a gross vehicle weight rating or gross vehicle weight of 11,794 or more kilograms (26,001 pounds or more); or\n\n(3) Small Vehicle (Group C) that does not meet Group A or B requirements but that either\u2014(i) Is designed to transport 16 or more passengers, including the driver; or (ii) Is of any size and is used in the transportation of hazardous materials as defined in this section.\n\nDisqualification means any of the following three actions: (1) The suspension, revocation, or cancellation of a CLP or CDL by the State or jurisdiction of issuance. (2) Any withdrawal of a person's privileges to drive a CMV by a State or other jurisdiction as the result of a violation of State or local law relating to motor vehicle traffic control. (3) A determination by the FMCSA that a person is not qualified to operate a commercial motor vehicle under part 391 of this subchapter.\n\nEndorsement means an authorization to an individual's CLP or CDL required to permit the individual to operate certain types of commercial motor vehicles.\n\nHazardous materials means any material that has been designated as hazardous under 49 U.S.C. 5103 and is required to be placarded under subpart F of 49 CFR part 172 or any quantity of a material listed as a select agent or toxin in 42 CFR part 73.\n\nTank vehicle means any commercial motor vehicle that is designed to transport any liquid or gaseous materials within a tank or tanks having an individual rated capacity of more than 119 gallons and an aggregate rated capacity of 1,000 gallons or more that is either permanently or temporarily attached to the vehicle or the chassis."
+  },
+  {
+    "id": "383-section-383-7",
+    "part": "383",
+    "section": "\u00a7 383.7 Validity of CDL issued by decertified State.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.7 Validity of CDL issued by decertified State.",
+    "text": "A CDL issued by a State prior to the date the State is notified by the Administrator that the State is prohibited from issuing CDLs will remain valid until its stated expiration date.\n\nSubpart B\u2014Single License Requirement"
+  },
+  {
+    "id": "383-section-383-21",
+    "part": "383",
+    "section": "\u00a7 383.21 Number of drivers' licenses.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.21 Number of drivers' licenses.",
+    "text": "No person who operates a commercial motor vehicle shall at any time have more than one driver's license."
+  },
+  {
+    "id": "383-section-383-23",
+    "part": "383",
+    "section": "\u00a7 383.23 Commercial driver's license.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.23 Commercial driver's license.",
+    "text": "(a) General rule. (1) No person shall operate a CMV unless such person has taken and passed knowledge and driving skills tests for a CLP or CDL that meet the Federal standards contained in subparts F, G, and H of this part for the CMV that person operates or expects to operate. (2) No person may legally operate a CMV unless such person possesses a CDL which meets the standards contained in subpart J of this part, issued by his/her State or jurisdiction of domicile."
+  },
+  {
+    "id": "383-section-383-25",
+    "part": "383",
+    "section": "\u00a7 383.25 Commercial learner's permit (CLP).",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.25 Commercial learner's permit (CLP).",
+    "text": "(a) A CLP is considered a valid CDL for purposes of behind-the-wheel training on public roads or highways, if minimum conditions are met, including that the CLP holder is accompanied by the holder of a valid CDL at all times, and:\n\n(6) The CLP holder does not operate a commercial motor vehicle transporting hazardous materials as defined in \u00a7 383.5.\n\nSubpart C\u2014Notification Requirements and Employer Responsibilities"
+  },
+  {
+    "id": "383-section-383-31",
+    "part": "383",
+    "section": "\u00a7 383.31 Notification of convictions for driver violations.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.31 Notification of convictions for driver violations.",
+    "text": "(a) Each person who operates a commercial motor vehicle, who has a commercial driver's license issued by a State or jurisdiction, and who is convicted of violating, in any type of motor vehicle, a State or local law relating to motor vehicle traffic control (other than a parking violation), shall notify his/her current employer of such conviction. The notification must be made within 30 days after the date that the person has been convicted."
+  },
+  {
+    "id": "383-section-383-35",
+    "part": "383",
+    "section": "\u00a7 383.35 Notification of previous employment.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.35 Notification of previous employment.",
+    "text": "(a) Any person applying for employment as an operator of a commercial motor vehicle shall provide at the time of application for employment specified employment history information for the 10 years preceding the date the application is submitted, including a list of the names and addresses of the applicant's previous employers, the dates the applicant was employed, and the reason for leaving."
+  },
+  {
+    "id": "383-section-383-37",
+    "part": "383",
+    "section": "\u00a7 383.37 Employer responsibilities.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.37 Employer responsibilities.",
+    "text": "No employer may allow, require, permit, or authorize a driver to operate a CMV in the United States if the employer knows or should reasonably know that: (a) The driver does not have a current CLP or CDL or does not have a CLP or CDL with the proper class or endorsements. (b) The driver has a CLP or CDL disqualified by a State, has lost the right to operate a CMV in a State, or has been disqualified from operating a CMV. (d) The driver, or the CMV the driver is operating, or the motor carrier operation, is subject to an out-of-service order.\n\nSubpart D\u2014Driver Disqualifications and Penalties"
+  },
+  {
+    "id": "383-section-383-51",
+    "part": "383",
+    "section": "\u00a7 383.51 Disqualification of drivers.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.51 Disqualification of drivers.",
+    "text": "(a) General. (1) A person required to have a CLP or CDL who is disqualified must not drive a CMV. (2) An employer must not knowingly allow, require, permit, or authorize a driver who is disqualified to drive a CMV.\n\n(b) Disqualification for major offenses (Table 1). For a first conviction while operating a CMV transporting hazardous materials, offenses including being under the influence of alcohol or a controlled substance, having an alcohol concentration of 0.04 or greater, refusing an alcohol test, leaving the scene of an accident, using the vehicle to commit a felony, driving while already disqualified, or causing a fatality through negligent operation, each result in disqualification for 3 years (versus 1 year for the same offense in a non-hazmat CMV). A second conviction of any combination of these offenses results in lifetime disqualification.\n\n(e) Disqualification for violating out-of-service orders (Table 4). A first conviction for violating a driver or vehicle out-of-service order while transporting hazardous materials as defined in \u00a7 383.5, or while operating a vehicle designed to transport 16 or more passengers, results in disqualification for no less than 180 days or more than 2 years (versus 180 days to 1 year for nonhazardous materials). A second conviction within a 10-year period results in disqualification for no less than 3 years or more than 5 years."
+  },
+  {
+    "id": "383-section-383-53",
+    "part": "383",
+    "section": "\u00a7 383.53 Penalties.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.53 Penalties.",
+    "text": "(a) General rule. Any person who violates the rules set forth in subparts B and C of this part may be subject to civil or criminal penalties under 49 U.S.C. 521(b).\n\nSubpart E\u2014Testing and Licensing Procedures"
+  },
+  {
+    "id": "383-section-383-71",
+    "part": "383",
+    "section": "\u00a7 383.71 Driver application and certification procedures.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.71 Driver application and certification procedures.",
+    "text": "(a) Commercial Learner's Permit. Prior to obtaining a CLP, a person must meet the following requirements: (1) The person must be 18 years of age or older and provide proof of his/her age. (2) The person must have taken and passed a general knowledge test that meets the Federal standards contained in subparts F, G, and H of this part for the commercial motor vehicle group that person operates or expects to operate. (8) A person seeking a passenger (P), school bus (S) or tank vehicle (N) endorsement must have taken and passed the endorsement knowledge test for the specific endorsement. (10) Beginning on February 7, 2022, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL for the first time, or a skills test for a passenger (P) or school bus (S) endorsement for the first time, or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.\n\n(b) Initial Commercial Driver's License. Prior to obtaining a CDL, a person must meet all of the following requirements:\n\n(1) Initial Commercial Driver's License applications submitted on or after January 30, 2012. Any person applying for a CDL on or after January 30, 2012, must meet the requirements set forth in paragraphs (b)(2) through (10), and (h) of this section, and make one of the following applicable certifications: (i) Non-excepted interstate \u2014 a person must certify that he/she operates or expects to operate in interstate commerce, is both subject to and meets the qualification requirements under 49 CFR part 391, and is required to obtain a medical examiner's certificate by \u00a7 391.45 of this chapter; (ii) Excepted interstate; (iii) Non-excepted intrastate; or (iv) Excepted intrastate.\n\n(2) The person must pass a driving or skills test in accordance with the standards contained in subparts F, G, and H of this part taken in a motor vehicle that is representative of the type of motor vehicle the person operates or expects to operate.\n\n(8) If the person is applying for a hazardous materials endorsement, he/she must comply with Transportation Security Administration requirements codified in 49 CFR part 1572. A lawful permanent resident of the United States requesting a hazardous materials endorsement must additionally provide his/her U.S. Citizenship and Immigration Services (USCIS) Alien registration number.\n\n(11) Beginning on February 7, 2022, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL, a passenger (P) or school bus (S) endorsement for the first time or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.\n\n(h) Medical certification documentation required by the State. An applicant or CLP or CDL holder who certifies to non-excepted, interstate driving operations according to \u00a7 383.71(b)(1)(i) must comply with applicable requirements: (1) New CLP and CDL applicants \u2014 on or after June 23, 2025, must be medically examined and certified in accordance with 49 CFR 391.43 as medically qualified to operate a CMV by a medical examiner, as defined in 49 CFR 390.5. (3) Maintaining the medical certification status of \"certified\" \u2014 on or after June 23, 2025, a CLP or CDL holder who certifies non-excepted, interstate operation must continue to be medically examined and certified in accordance with 49 CFR 391.43.\n\nSubpart G\u2014Required Knowledge and Skills"
+  },
+  {
+    "id": "383-section-383-121",
+    "part": "383",
+    "section": "\u00a7 383.121 Requirements for hazardous materials endorsement.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383",
+    "title": "\u00a7 383.121 Requirements for hazardous materials endorsement.",
+    "text": "Every driver who operates a commercial motor vehicle transporting hazardous materials that require the motor vehicle to be placarded under 49 CFR part 172, subpart F must have knowledge covering: the regulatory requirements for shipping papers, package marking, labeling, and placarding requirements; the health and environmental effects of exposure to hazardous materials; the practical exercises regarding placarding a vehicle; hazardous materials markings, communications, and emergency response information requirements; and driving and parking rules covering these materials."
+  },
+  {
+    "id": "385-section-385-401",
+    "part": "385",
+    "section": "\u00a7 385.401 Hazardous materials safety permits: Purpose and scope.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.401 Hazardous materials safety permits: Purpose and scope.",
+    "text": "(a) This subpart contains the requirements for obtaining and maintaining a safety permit to transport certain hazardous materials. No one may transport the materials listed in \u00a7 385.403 without a safety permit required by this subpart.\n\n(b) This subpart includes: (1) Definitions of terms used in this subpart; (2) The list of hazardous materials that require a safety permit if transported in commerce; (3) The requirements and procedures a carrier must follow in order to be issued a safety permit and maintain a safety permit; (4) The procedures for a motor carrier to follow to initiate an administrative review of a denial, suspension, or revocation of a safety permit."
+  },
+  {
+    "id": "385-section-385-402",
+    "part": "385",
+    "section": "\u00a7 385.402 Hazardous materials safety permits: Definitions.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.402 Hazardous materials safety permits: Definitions.",
+    "text": "Hazardous material has the same meaning as under \u00a7 171.8 of this title: A substance or material that the Secretary of Transportation has determined is capable of posing an unreasonable risk to health, safety, and property when transported in commerce, and has designated as hazardous under Sec. 5103 of Federal hazardous materials transportation law (49 U.S.C. 5103).\n\nSafety permit means a document issued by FMCSA that contains a permit number and confers authority to transport in commerce the hazardous materials listed in \u00a7 385.403."
+  },
+  {
+    "id": "385-section-385-403",
+    "part": "385",
+    "section": "\u00a7 385.403 Prohibited transportation without safety permit.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.403 Prohibited transportation without safety permit.",
+    "text": "A motor carrier may not transport in interstate or intrastate commerce any of the following hazardous materials, in the quantity indicated for each, unless the motor carrier holds a safety permit:\n\n(a) A highway route-controlled quantity of a Class 7 (radioactive) material, as defined in \u00a7 173.403 of this title;\n\n(b) More than 25 kg (55 pounds) net weight of a Division 1.1, 1.2, or 1.3 (explosive) material or articles or an amount of a Division 1.5 (explosive) material requiring placarding under part 172 of this title;\n\n(c) More than one liter (1.08 quarts) per package of a \"material poisonous by inhalation,\" as defined in \u00a7 171.8 of this title, that meets the criteria for \"hazard zone A,\" as specified in \u00a7 173.116(a) or \u00a7 173.133(a) of this title;\n\n(d) A \"material poisonous by inhalation,\" in a \"bulk packaging,\" both as defined in \u00a7 171.8 of this title, that meets the criteria for \"hazard zone B,\" as specified in \u00a7 173.116(a) or \u00a7 173.133(a);\n\n(e) A \"material poisonous by inhalation,\" as defined in \u00a7 171.8 of this title, that meets the criteria for \"hazard zone C,\" or \"hazard zone D,\" as specified in \u00a7 173.116(a) of this title, in a packaging having a capacity equal to or greater than 13,248 L (3,500) gallons; or\n\n(f) A shipment of methane (compressed or refrigerated liquid), natural gas (compressed or refrigerated liquid), or any other compressed or refrigerated liquefied gas with a methane content of at least 85 percent, in bulk packaging having a capacity equal to or greater than 13,248 L (3,500 gallons)."
+  },
+  {
+    "id": "385-section-385-405T",
+    "part": "385",
+    "section": "\u00a7 385.405T Application for safety permit.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.405T Application for safety permit.",
+    "text": "(a) Application form(s). (1) To apply for a new safety permit or renewal of the safety permit, a motor carrier must complete and submit Form MCS-150B, Combined Motor Carrier Identification Report and HM Permit Application. (2) The Form MCS-150B will also satisfy the requirements for obtaining and renewing a USDOT Number; there is no need to complete Form MCS-150, Motor Carrier Identification Report.\n\n(d) Updating information on Form MCS-150B. A motor carrier holding a safety permit must report to FMCSA any change in the information on its Form MCS-150B within 30 days of the change."
+  },
+  {
+    "id": "385-section-385-407",
+    "part": "385",
+    "section": "\u00a7 385.407 Requirements for a safety permit.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.407 Requirements for a safety permit.",
+    "text": "(a) Motor carrier safety performance.\n\n(1) The motor carrier must have a \"Satisfactory\" safety rating assigned by either FMCSA, pursuant to the Safety Fitness Procedures of this part, or the State in which the motor carrier has its principal place of business, if the State has adopted and implemented safety fitness procedures that are equivalent to the procedures in subpart A of this part; and\n\n(2) FMCSA will not issue a safety permit to a motor carrier that:\n\n(i) Does not certify that it has a satisfactory security program as required in \u00a7 385.407(b);\n\n(ii) Has a crash rate in the top 30 percent of the national average as indicated in the FMCSA Motor Carrier Management Information System (MCMIS);\n\n(iii) Has a driver, vehicle, hazardous materials, or total out-of-service rate in the top 30 percent of the national average as indicated in the MCMIS; or\n\n(iv) Does not have the minimum financial responsibility required by \u00a7 387.9 of this chapter or an applicable State requirement.\n\n(b) Satisfactory security program. The motor carrier must certify that it has a satisfactory security program, including: (1) A security plan meeting the requirements of part 172, subpart I of this title, and addressing how the carrier will ensure the security of the written route plan required by this part; (2) A communications plan that allows for contact between the commercial motor vehicle operator and the motor carrier to meet the periodic contact requirements in \u00a7 385.415(c)(1); and (3) Successful completion by all hazmat employees of the security training required in \u00a7 172.704(a)(4) and (a)(5) of this title.\n\n(c) Registration with the Pipeline and Hazardous Materials Safety Administration (PHMSA). The motor carrier must be registered with the PHMSA in accordance with part 107, subpart G of this title."
+  },
+  {
+    "id": "385-section-385-409T",
+    "part": "385",
+    "section": "\u00a7 385.409T Temporary safety permit.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.409T Temporary safety permit.",
+    "text": "(a) If a motor carrier does not meet the criteria in \u00a7 385.407(a), FMCSA may issue it a temporary safety permit. To obtain a temporary safety permit a motor carrier must certify on Form MCS-150B that it is operating in full compliance with the HMRs; with the FMCSRs, and/or comparable State regulations, whichever is applicable; and with the minimum financial responsibility requirements in part 387 of this chapter or in State regulations, whichever is applicable.\n\n(c) A temporary safety permit shall be valid for 180 days after the date of issuance or until the motor carrier is assigned a new safety rating, whichever occurs first."
+  },
+  {
+    "id": "385-section-385-411",
+    "part": "385",
+    "section": "\u00a7 385.411 State-issued safety permit.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.411 State-issued safety permit.",
+    "text": "A motor carrier must comply with the requirements of this subpart even if it has a State-issued safety permit. However, if FMCSA is able to verify that a motor carrier has a safety permit issued by a State under a program that FMCSA has determined to be equivalent to the provisions of this subpart, FMCSA will immediately issue a safety permit to the motor carrier upon receipt of an application in accordance with \u00a7 385.405T, without further inspection or investigation."
+  },
+  {
+    "id": "385-section-385-413",
+    "part": "385",
+    "section": "\u00a7 385.413 Proposed safety rating less than Satisfactory.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.413 Proposed safety rating less than Satisfactory.",
+    "text": "(a) If a motor carrier receives a proposed safety rating that is less than Satisfactory and does not already have a safety permit, it will not be issued a safety permit (including a temporary safety permit) unless and until a Satisfactory safety rating is issued to the motor carrier.\n\n(b) If a motor carrier receives a proposed safety rating that is less than Satisfactory and holds a safety permit (including a temporary safety permit), the safety permit will be subject to revocation or suspension (see \u00a7 385.421)."
+  },
+  {
+    "id": "385-section-385-415",
+    "part": "385",
+    "section": "\u00a7 385.415 Operational requirements for the transportation of a hazardous material for which a permit is required.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.415 Operational requirements for the transportation of a hazardous material for which a permit is required.",
+    "text": "(a) Information that must be carried in the vehicle. During transportation, the following must be maintained in each commercial motor vehicle that transports a hazardous material listed in \u00a7 385.403 and must be made available to an authorized official of a Federal, State, or local government agency upon request.\n\n(1) A copy of the safety permit or another document showing the permit number, provided that document clearly indicates the number is the FMCSA Safety Permit number;\n\n(2) A written route plan that meets the requirements of \u00a7 397.101 of this chapter for highway route-controlled Class 7 (radioactive) materials or \u00a7 397.67 of this chapter for Division 1.1, 1.2, and 1.3 (explosive) materials; and\n\n(3) The telephone number, including area code or country code, of an employee of the motor carrier or representative of the motor carrier who is familiar with the routing of the permitted material. The motor carrier employee or representative must be able to verify that the shipment is within the general area for the expected route for the permitted material. The telephone number, when called, must be answered directly by the motor carrier or its representative at all times while the permitted material is in transportation including storage incidental to transportation. Answering machines are not sufficient to meet this requirement.\n\n(b) Inspection of vehicle transporting Class 7 (radioactive) materials. Before a motor carrier may transport a highway route controlled quantity of a Class 7 (radioactive) material, the motor carrier must have a pre-trip inspection performed on each motor vehicle to be used to transport a highway route controlled quantity of a Class 7 (radioactive) material.\n\n(c) Additional requirements. (1) The operator of a motor vehicle used to transport a hazardous material listed in \u00a7 385.403 must follow the communications plan required in \u00a7 385.407(b)(2) to make contact with the carrier at the beginning and end of each duty tour, and at the pickup and delivery of each permitted load. The motor carrier or driver must maintain a record of communications for 6 months after the initial acceptance of a shipment of hazardous material for which a safety permit is required."
+  },
+  {
+    "id": "385-section-385-417",
+    "part": "385",
+    "section": "\u00a7 385.417 Availability of motor carrier's safety permit number.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.417 Availability of motor carrier's safety permit number.",
+    "text": "Upon request, a motor carrier must provide the number of its safety permit to a person who offers a hazardous material listed in \u00a7 385.403 for transportation in commerce. A motor carrier's permit number also will be available to the public on the FMCSA Safety and Fitness Electronic Records System website at https://safer.fmcsa.dot.gov."
+  },
+  {
+    "id": "385-section-385-419T",
+    "part": "385",
+    "section": "\u00a7 385.419T Effective period of safety permit.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.419T Effective period of safety permit.",
+    "text": "Unless suspended or revoked, a safety permit (other than a temporary safety permit) is effective for two years."
+  },
+  {
+    "id": "385-section-385-421T",
+    "part": "385",
+    "section": "\u00a7 385.421T Revocation or suspension of safety permit.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.421T Revocation or suspension of safety permit.",
+    "text": "(a) Grounds. A safety permit will be subject to revocation or suspension by FMCSA for reasons including: failure to submit a renewal application; providing false or misleading information; being issued a final safety rating that is less than Satisfactory; failure to maintain a satisfactory security plan; failure to comply with applicable FMCSR/HMR requirements in a manner showing the motor carrier is not fit to transport the hazardous materials listed in \u00a7 385.403; failure to comply with an out-of-service order; failure to maintain minimum financial responsibility; failure to maintain current hazardous materials registration with PHMSA; or loss of operating rights for failure to pay a civil penalty.\n\n(b) Determining whether a safety permit is revoked or suspended. A motor carrier's safety permit will be suspended the first time any of the conditions specified in paragraph (a) of this section are found to apply. A motor carrier's safety permit will be revoked if any of the conditions specified in paragraph (a) of this section are found to apply and the carrier's safety permit has been suspended in the past for any of the reasons specified in paragraph (a)."
+  },
+  {
+    "id": "385-section-385-423",
+    "part": "385",
+    "section": "\u00a7 385.423 Administrative review of a denial, suspension, or revocation of a safety permit.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-385/subpart-E",
+    "title": "\u00a7 385.423 Administrative review of a denial, suspension, or revocation of a safety permit.",
+    "text": "A motor carrier has a right to an administrative review pursuant to specified procedures and conditions depending on the grounds for denial, suspension, or revocation."
+  },
+  {
+    "id": "391-section-391-1",
+    "part": "391",
+    "section": "\u00a7 391.1 Scope of the rules in this part; additional qualifications; duties of carrier-drivers.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.1 Scope of the rules in this part; additional qualifications; duties of carrier-drivers.",
+    "text": "(a) The rules in this part establish minimum qualifications for persons who drive commercial motor vehicles as, for, or on behalf of motor carriers. The rules in this part also establish minimum duties of motor carriers with respect to the qualifications of their drivers.\n\n(b) An individual who meets the definition of both a motor carrier and a driver employed by that motor carrier must comply with both the rules in this part that apply to motor carriers and the rules in this part that apply to drivers."
+  },
+  {
+    "id": "391-section-391-2",
+    "part": "391",
+    "section": "\u00a7 391.2 General exceptions.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.2 General exceptions.",
+    "text": "(a) Farm custom operation. The rules in this part, except for \u00a7 391.15(e) and (f), do not apply to a driver who drives a commercial motor vehicle controlled and operated by a person engaged in custom-harvesting operations.\n\n(d) Covered farm vehicles. The rules in part 391, Subpart E\u2014Physical Qualifications and Examinations\u2014do not apply to drivers of \"covered farm vehicles,\" as defined in 49 CFR 390.5.\n\nSubpart B\u2014Qualification and Disqualification of Drivers"
+  },
+  {
+    "id": "391-section-391-11",
+    "part": "391",
+    "section": "\u00a7 391.11 General qualifications of drivers.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.11 General qualifications of drivers.",
+    "text": "(a) A person shall not drive a commercial motor vehicle unless he/she is qualified to drive a commercial motor vehicle. Except as provided in \u00a7 391.63, a motor carrier shall not require or permit a person to drive a commercial motor vehicle unless that person is qualified to drive a commercial motor vehicle.\n\n(b) Except as provided in subpart G of this part, a person is qualified to drive a motor vehicle if he/she\u2014\n\n(1) Is at least 21 years old;\n\n(2) Can read and speak the English language sufficiently to converse with the general public, to understand highway traffic signs and signals in the English language, to respond to official inquiries, and to make entries on reports and records;\n\n(3) Can, by reason of experience, training, or both, safely operate the type of commercial motor vehicle he/she drives;\n\n(4) Is physically qualified to drive a commercial motor vehicle in accordance with subpart E\u2014Physical Qualifications and Examinations of this part;\n\n(5) Has a currently valid commercial motor vehicle operator's license issued only by one State or jurisdiction;\n\n(6) Is not disqualified to drive a commercial motor vehicle under the rules in \u00a7 391.15; and\n\n(7) Has successfully completed a driver's road test and has been issued a certificate of driver's road test in accordance with \u00a7 391.31, or has presented an operator's license or a certificate of road test which the motor carrier that employs him/her has accepted as equivalent to a road test in accordance with \u00a7 391.33."
+  },
+  {
+    "id": "391-section-391-13",
+    "part": "391",
+    "section": "\u00a7 391.13 Responsibilities of drivers.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.13 Responsibilities of drivers.",
+    "text": "A motor carrier shall not require or permit a person to drive a commercial motor vehicle unless the person\u2014(a) Can, by reason of experience, training, or both, determine whether the cargo he/she transports has been properly located, distributed, and secured; (b) Is familiar with methods and procedures for securing cargo in or on the commercial motor vehicle he/she drives."
+  },
+  {
+    "id": "391-section-391-15",
+    "part": "391",
+    "section": "\u00a7 391.15 Disqualification of drivers.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.15 Disqualification of drivers.",
+    "text": "(a) General. A driver who is disqualified shall not drive a commercial motor vehicle. A motor carrier shall not require or permit a driver who is disqualified to drive a commercial motor vehicle.\n\n(c) Disqualification for criminal and other offenses. (2) Disqualifying offenses include: driving a commercial motor vehicle while under the influence of alcohol (0.04 percent or more alcohol concentration, or as prescribed by State law, or refusal to undergo testing); driving under the influence of a Schedule I controlled substance, amphetamine, narcotic drug; transportation, possession, or unlawful use of such substances while on duty; leaving the scene of an accident while operating a commercial motor vehicle; or a felony involving the use of a commercial motor vehicle.\n\n(3) Duration of disqualification. (i) First offenders \u2014 disqualified for 1 year after conviction, or 6 months if solely concerning transportation or possession of certain substances. (ii) Subsequent offenders \u2014 disqualified for 3 years.\n\n(d) Disqualification for violation of out-of-service orders. (2)(i) First violation \u2014 disqualified for not less than 90 days nor more than one year. (ii) Second violation \u2014 disqualified for not less than one year nor more than five years. (iv) Special rule for hazardous materials and passenger offenses \u2014 disqualified for not less than 180 days nor more than two years for a first violation of an out-of-service order while transporting hazardous materials required to be placarded, or while operating vehicles designed to transport more than 15 passengers.\n\nSubpart C\u2014Background and Character"
+  },
+  {
+    "id": "391-section-391-21",
+    "part": "391",
+    "section": "\u00a7 391.21 Application for employment.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.21 Application for employment.",
+    "text": "(a) Except as provided in subpart G of this part, a person shall not drive a commercial motor vehicle unless he/she has completed and furnished the motor carrier that employs him/her with an application for employment.\n\n(b) The application for employment shall be made on a form furnished by the motor carrier and must contain: the name and address of the employing motor carrier; the applicant's name, address, date of birth, and social security number; addresses of residence during the preceding 3 years; the date submitted; driver's licensing authority, number, and expiration date; nature and extent of driving experience; a list of all motor vehicle accidents during the preceding 3 years; a list of all motor vehicle law violations during the preceding 3 years; a statement regarding any denial, revocation, or suspension of driving privileges; and a list of employers during the preceding 3 years (and 7 additional years for CDL applicants) with dates of employment and reasons for leaving."
+  },
+  {
+    "id": "391-section-391-23",
+    "part": "391",
+    "section": "\u00a7 391.23 Investigation and inquiries.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.23 Investigation and inquiries.",
+    "text": "(a) Except as provided in subpart G of this part, each motor carrier shall make the following investigations and inquiries with respect to each driver it employs: (1) An inquiry, within 30 days of the date the driver's employment begins, to each driver's licensing authority where the driver held or holds a motor vehicle operator's license or permit during the preceding 3 years, to obtain that driver's motor vehicle record covering that driver's prior 3-year driving history. (2) An investigation of the driver's safety performance history with Department of Transportation regulated employers during the preceding three years.\n\n(m)(1) The motor carrier must obtain an original or copy of the medical examiner's certificate issued in accordance with \u00a7 391.43, and any medical variance on which the certification is based, and verify the driver was certified by a medical examiner listed on the National Registry of Certified Medical Examiners, and place the records in the driver qualification file, before allowing the driver to operate a CMV."
+  },
+  {
+    "id": "391-section-391-25",
+    "part": "391",
+    "section": "\u00a7 391.25 Annual inquiry and review of driving record.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.25 Annual inquiry and review of driving record.",
+    "text": "(a) Except as provided in subpart G of this part, each motor carrier shall, at least once every 12 months, make an inquiry to obtain the motor vehicle record of each driver it employs, covering at least the preceding 12 months, to each driver's licensing authority where the driver held a commercial motor vehicle operator's license or permit during the time period.\n\n(b) Except as provided in subpart G of this part, each motor carrier shall, at least once every 12 months, review the motor vehicle record of each driver it employs to determine whether that driver meets minimum requirements for safe driving or is disqualified to drive a commercial motor vehicle pursuant to \u00a7 391.15.\n\n(1) The motor carrier must consider any evidence that the driver has violated any applicable Federal Motor Carrier Safety Regulations in this subchapter or Hazardous Materials Regulations (49 CFR chapter I, subchapter C).\n\n(2) The motor carrier must consider the driver's accident record and any evidence that the driver has violated laws governing the operation of motor vehicles, and must give great weight to violations, such as speeding, reckless driving, and operating while under the influence of alcohol or drugs, that indicate that the driver has exhibited a disregard for the safety of the public.\n\n(c)(1) A copy of the motor vehicle record required by paragraph (a) of this section shall be maintained in the driver's qualification file.\n\n(2) A note, including the name of the person who performed the review of the driving record required by paragraph (b) of this section and the date of such review, shall be maintained in the driver's qualification file.\n\nSubpart D\u2014Tests"
+  },
+  {
+    "id": "391-section-391-31",
+    "part": "391",
+    "section": "\u00a7 391.31 Road test.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.31 Road test.",
+    "text": "(a) Except as provided in subpart G, a person shall not drive a commercial motor vehicle unless he/she has first successfully completed a road test and has been issued a certificate of driver's road test in accordance with this section.\n\n(c) The road test must be of sufficient duration to enable the person who gives it to evaluate the skill of the person who takes it, including: the pretrip inspection; coupling and uncoupling of combination units; placing the commercial motor vehicle in operation; use of controls and emergency equipment; operating in traffic and while passing other vehicles; turning; braking and slowing by means other than braking; and backing and parking."
+  },
+  {
+    "id": "391-section-391-33",
+    "part": "391",
+    "section": "\u00a7 391.33 Equivalent of road test.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.33 Equivalent of road test.",
+    "text": "(a) In place of, and as equivalent to, the road test required by \u00a7 391.31, a person who seeks to drive a commercial motor vehicle may present, and a motor carrier may accept: (1) A valid Commercial Driver's License issued to operate the specific category of vehicle, after successful completion of a road test in a commercial motor vehicle of the type intended; or (2) A copy of a valid certificate of driver's road test issued within the preceding 3 years.\n\nSubpart E\u2014Physical Qualifications and Examinations"
+  },
+  {
+    "id": "391-section-391-41",
+    "part": "391",
+    "section": "\u00a7 391.41 Physical qualifications for drivers.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.41 Physical qualifications for drivers.",
+    "text": "(a)(1)(i) A person subject to this part must not operate a commercial motor vehicle unless he or she is medically certified as physically qualified to do so, and, when on-duty, has on his or her person the original, or a copy, of a current medical examiner's certificate that he or she is physically qualified to drive a commercial motor vehicle.\n\n(3) A person is physically qualified to drive a commercial motor vehicle if: (i) That person meets the physical qualification standards in paragraph (b) of this section and has complied with the medical examination requirements in \u00a7 391.43; or (ii) That person obtained from FMCSA a medical variance from the physical qualification standards.\n\n(b) A person is physically qualified to drive a commercial motor vehicle if that person\u2014(1) Has no loss of a foot, a leg, a hand, or an arm, or has been granted a skill performance evaluation certificate; (2) Has no impairment of a hand, finger, arm, foot, or leg that interferes with operating a commercial motor vehicle; (3) Has no established medical history or clinical diagnosis of diabetes mellitus currently treated with insulin for control, unless the person meets the requirements in \u00a7 391.46; (4) Has no current clinical diagnosis of myocardial infarction, angina pectoris, coronary insufficiency, thrombosis, or any other cardiovascular disease of a variety known to be accompanied by syncope, dyspnea, collapse, or congestive cardiac failure; (5) Has no established medical history or clinical diagnosis of a respiratory dysfunction likely to interfere with his/her ability to control and drive a commercial motor vehicle safely; (6) Has no current clinical diagnosis of high blood pressure likely to interfere with his/her ability to operate a commercial motor vehicle safely; (8) Has no established medical history or clinical diagnosis of epilepsy or any other condition which is likely to cause loss of consciousness or any loss of ability to control a commercial motor vehicle; (9) Has no mental, nervous, organic, or functional disease or psychiatric disorder likely to interfere with his/her ability to drive a commercial motor vehicle safely; (10) Has distant visual acuity of at least 20/40 (Snellen) in each eye without corrective lenses or visual acuity separately corrected to 20/40 (Snellen) or better with corrective lenses, field of vision of at least 70\u00b0 in the horizontal meridian in each eye, and the ability to recognize the colors of traffic signals; (11) First perceives a forced whispered voice in the better ear at not less than 5 feet with or without a hearing aid, or does not have an average hearing loss in the better ear greater than 40 decibels; (12) Does not use any drug or substance identified in Schedule I, an amphetamine, a narcotic, or other habit-forming drug, except when the use is prescribed by a licensed medical practitioner familiar with the driver's medical history; and (13) Has no current clinical diagnosis of alcoholism."
+  },
+  {
+    "id": "391-section-391-43",
+    "part": "391",
+    "section": "\u00a7 391.43 Medical examination; certificate of physical examination.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.43 Medical examination; certificate of physical examination.",
+    "text": "(a) Except as provided by paragraph (b) of this section, the medical examination must be performed by a medical examiner listed on the National Registry of Certified Medical Examiners under subpart D of part 390 of this chapter.\n\n(g) Upon completion of the medical examination required by this subpart: (1) The medical examiner must date and sign the Medical Examination Report and provide his or her full name, office address, and telephone number on the Report. (2) If the medical examiner finds that the person examined is physically qualified to operate a commercial motor vehicle in accordance with \u00a7 391.41(b), he or she must complete a certificate and furnish the original to the person who was examined.\n\n(i) Each original completed Medical Examination Report and a copy or electronic version of each medical examiner's certificate must be retained on file at the office of the medical examiner for at least 3 years from the date of examination."
+  },
+  {
+    "id": "391-section-391-45",
+    "part": "391",
+    "section": "\u00a7 391.45 Persons who must be medically examined and certified.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.45 Persons who must be medically examined and certified.",
+    "text": "The following persons must be medically examined and certified in accordance with \u00a7 391.43 as physically qualified to operate a commercial motor vehicle: (a) Any person who has not been medically examined and certified as physically qualified to operate a commercial motor vehicle; (b) Any driver who has not been medically examined and certified as qualified to operate a commercial motor vehicle during the preceding 24 months."
+  },
+  {
+    "id": "391-section-391-49",
+    "part": "391",
+    "section": "\u00a7 391.49 Alternative physical qualification standards for the loss or impairment of limbs.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.49 Alternative physical qualification standards for the loss or impairment of limbs.",
+    "text": "(a) A person who is not physically qualified to drive under \u00a7 391.41(b)(1) or (2) and who is otherwise qualified to drive a commercial motor vehicle, may drive a commercial motor vehicle if FMCSA has granted a Skill Performance Evaluation (SPE) Certificate to that person.\n\nSubpart F\u2014Files and Records"
+  },
+  {
+    "id": "391-section-391-51",
+    "part": "391",
+    "section": "\u00a7 391.51 General requirements for driver qualification files.",
+    "domain": "driver_qualification",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+    "title": "\u00a7 391.51 General requirements for driver qualification files.",
+    "text": "(a) Each motor carrier shall maintain a driver qualification file for each driver it employs. A driver's qualification file may be combined with his/her personnel file.\n\n(b) The qualification file for a driver must include:\n\n(1) The driver's application for employment completed in accordance with \u00a7 391.21;\n\n(2) A copy of the motor vehicle record received from each driver's licensing authority pursuant to \u00a7 391.23(a)(1);\n\n(3) The certificate of driver's road test issued to the driver pursuant to \u00a7 391.31(e), or a copy of the license or certificate accepted as equivalent pursuant to \u00a7 391.33;\n\n(4) The motor vehicle record received from each driver's licensing authority pursuant to the annual driver record inquiry required by \u00a7 391.25(a);\n\n(5) A note relating to the annual review of the driver's driving record as required by \u00a7 391.25(c)(2);\n\n(6)(i) The medical examiner's certificate as required by \u00a7 391.43(g) or a legible copy of the certificate;\n\n(7) A Skill Performance Evaluation Certificate issued by FMCSA in accordance with \u00a7 391.49; or the Medical Exemption document issued by a Federal medical program in accordance with part 381 of this chapter; and\n\n(8) A note relating to verification of medical examiner listing on the National Registry of Certified Medical Examiners.\n\n(c) Except as provided in paragraph (d) of this section, each driver's qualification file shall be retained for as long as a driver is employed by that motor carrier and for three years thereafter.\n\n(d) The following records may be removed from a driver's qualification file three years after the date of execution: (1) The motor vehicle record received pursuant to the annual driver record inquiry required by \u00a7 391.25(a); (2) The note relating to the annual review of the driver's driving record required by \u00a7 391.25(c)(2); (3) The medical examiner's certificate required by \u00a7 391.43(g), a legible copy, or CDLIS MVR obtained; (4) Any medical variance issued by FMCSA including a Skill Performance Evaluation Certificate; and (5) The note relating to verification of medical examiner listing on the National Registry."
+  },
+  {
+    "id": "396-section-396-1",
+    "part": "396",
+    "section": "\u00a7 396.1 Scope.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.1 Scope.",
+    "text": "(a) Every motor carrier, its officers, drivers, agents, representatives, and employees directly concerned with the inspection or maintenance of commercial motor vehicles must be knowledgeable of and comply with the rules of this part.\n\n(b) Every intermodal equipment provider, its officers, agents, representatives, and employees directly concerned with the inspection or maintenance of intermodal equipment interchanged or offered for interchange to motor carriers must be knowledgeable of and comply with the rules of this part.\n\n(c) This part does not apply to \"covered farm vehicles,\" as defined in 49 CFR 390.5, or to the drivers of such vehicles.\n\n(d) The rules in this part do not apply to \"pipeline welding trucks\" as defined in 49 CFR 390.38(b)."
+  },
+  {
+    "id": "396-section-396-3",
+    "part": "396",
+    "section": "\u00a7 396.3 Inspection, repair, and maintenance.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.3 Inspection, repair, and maintenance.",
+    "text": "(a) General. Every motor carrier and intermodal equipment provider must systematically inspect, repair, and maintain, or cause to be systematically inspected, repaired, and maintained, all motor vehicles and intermodal equipment subject to its control.\n\n(1) Parts and accessories shall be in safe and proper operating condition at all times. These include those specified in part 393 of this subchapter and any additional parts and accessories which may affect safety of operation, including but not limited to, frame and frame assemblies, suspension systems, axles and attaching parts, wheels and rims, and steering systems.\n\n(2) Pushout windows, emergency doors, and emergency door marking lights in buses shall be inspected at least every 90 days.\n\n(b) Required records. Motor carriers, except for a private motor carrier of passengers (nonbusiness), must maintain, or cause to be maintained, records for each motor vehicle they control for 30 consecutive days. These records must include: (1) An identification of the vehicle; (2) A means to indicate the nature and due date of the various inspection and maintenance operations to be performed; (3) A record of inspection, repairs, and maintenance indicating their date and nature; and (4) A record of tests conducted on pushout windows, emergency doors, and emergency door marking lights on buses.\n\n(c) Record retention. The records required by this section shall be retained where the vehicle is either housed or maintained for a period of 1 year and for 6 months after the motor vehicle leaves the motor carrier's control."
+  },
+  {
+    "id": "396-section-396-5",
+    "part": "396",
+    "section": "\u00a7 396.5 Lubrication.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.5 Lubrication.",
+    "text": "Every motor carrier shall ensure that each motor vehicle subject to its control is\u2014(a) Properly lubricated; and (b) Free of oil and grease leaks."
+  },
+  {
+    "id": "396-section-396-7",
+    "part": "396",
+    "section": "\u00a7 396.7 Unsafe operations forbidden.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.7 Unsafe operations forbidden.",
+    "text": "(a) General. A motor vehicle shall not be operated in such a condition as to likely cause an accident or a breakdown of the vehicle.\n\n(b) Exemption. Any motor vehicle discovered to be in an unsafe condition while being operated on the highway may be continued in operation only to the nearest place where repairs can safely be effected, if it is less hazardous to the public than to permit the vehicle to remain on the highway."
+  },
+  {
+    "id": "396-section-396-9",
+    "part": "396",
+    "section": "\u00a7 396.9 Inspection of motor vehicles and intermodal equipment in operation.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.9 Inspection of motor vehicles and intermodal equipment in operation.",
+    "text": "(a) Personnel authorized to perform inspections. Every special agent of the FMCSA is authorized to enter upon and perform inspections of a motor carrier's vehicles in operation and intermodal equipment in operation.\n\n(c) Motor vehicles and intermodal equipment declared \"out-of-service.\" (1) Authorized personnel shall declare and mark \"out-of-service\" any motor vehicle or intermodal equipment which by reason of its mechanical condition or loading would likely cause an accident or a breakdown. (2) No motor carrier or intermodal equipment provider shall require or permit any person to operate, nor shall any person operate, any motor vehicle or intermodal equipment declared and marked \"out-of-service\" until all repairs required by the \"out-of-service notice\" have been satisfactorily completed.\n\n(d) Motor carrier or intermodal equipment provider disposition. (1) The driver of any motor vehicle who receives an inspection report shall deliver a copy to the motor carrier operating the vehicle upon arrival at the next terminal or facility. (3) Within 15 days following the date of the inspection, the motor carrier or intermodal equipment provider shall certify that all violations noted have been corrected."
+  },
+  {
+    "id": "396-section-396-11",
+    "part": "396",
+    "section": "\u00a7 396.11 Driver vehicle inspection report(s).",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.11 Driver vehicle inspection report(s).",
+    "text": "(a) Equipment provided by motor carrier. (1) Report required. Every motor carrier shall require its drivers to report, and every driver shall prepare a report in writing at the completion of each day's work on each vehicle operated. The report shall cover at least the following parts and accessories: service brakes including trailer brake connections; parking brake; steering mechanism; lighting devices and reflectors; tires; horn; windshield wipers; rear vision mirrors; coupling devices; wheels and rims; emergency equipment.\n\n(3) Corrective action. (i) Prior to requiring or permitting a driver to operate a vehicle, every motor carrier or its agent shall repair any defect or deficiency listed on the driver vehicle inspection report which would be likely to affect the safety of operation of the vehicle.\n\n(4) Retention period for reports. Every motor carrier shall maintain the driver vehicle inspection report, the certification of repairs, and the certification of the driver's review for three months from the date the written report was prepared.\n\n(5) Exceptions. The rules in this section shall not apply to a private motor carrier of passengers (nonbusiness), a driveaway-towaway operation, or any motor carrier operating only one commercial motor vehicle."
+  },
+  {
+    "id": "396-section-396-12",
+    "part": "396",
+    "section": "\u00a7 396.12 Procedures for intermodal equipment providers to accept reports required by \u00a7 390.42(b) of this chapter.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.12 Procedures for intermodal equipment providers to accept reports required by \u00a7 390.42(b) of this chapter.",
+    "text": "(a) System for reports. Each intermodal equipment provider must establish a system for motor carriers and drivers to report to it any damage, defects, or deficiencies of intermodal equipment."
+  },
+  {
+    "id": "396-section-396-13",
+    "part": "396",
+    "section": "\u00a7 396.13 Driver inspection.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.13 Driver inspection.",
+    "text": "Before driving a motor vehicle, the driver shall: (a) Be satisfied that the motor vehicle is in safe operating condition; (b) Review the last driver vehicle inspection report if required by \u00a7 396.11(a)(2)(i); and (c) Sign the report to acknowledge that the driver has reviewed it and that there is a certification that the required repairs have been performed."
+  },
+  {
+    "id": "396-section-396-15",
+    "part": "396",
+    "section": "\u00a7 396.15 Driveaway-towaway operations and inspections.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.15 Driveaway-towaway operations and inspections.",
+    "text": "(a) General. Every motor carrier, with respect to motor vehicles engaged in driveaway-towaway operations, shall comply with the requirements of this part. Exception: Maintenance records required by \u00a7 396.3, the vehicle inspection report required by \u00a7 396.11, and the periodic inspection required by \u00a7 396.17 of this part shall not be required for any vehicle which is part of the shipment being delivered.\n\n(b) Pre-trip inspection. Before the beginning of any driveaway-towaway operation of motor vehicles in combination, the motor carrier shall make a careful inspection and test to ascertain that: (1) The tow-bar or saddle-mount connections are properly secured to the towed and towing vehicle; (2) They function adequately without cramping or binding of any of the parts; and (3) The towed motor vehicle follows substantially in the path of the towing vehicle without whipping or swerving."
+  },
+  {
+    "id": "396-section-396-17",
+    "part": "396",
+    "section": "\u00a7 396.17 Periodic inspection.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.17 Periodic inspection.",
+    "text": "(a) Every commercial motor vehicle must be inspected as required by this section. The inspection must include, at a minimum, the parts and accessories set forth in appendix A to this part. The term commercial motor vehicle includes each vehicle in a combination vehicle.\n\n(b) Except as provided in \u00a7 396.23 and this paragraph, motor carriers must inspect or cause to be inspected all motor vehicles subject to their control. Intermodal equipment providers must inspect or cause to be inspected intermodal equipment that is interchanged or intended for interchange to motor carriers in intermodal transportation.\n\n(c) A motor carrier must not use a commercial motor vehicle, and an intermodal equipment provider must not tender equipment to a motor carrier for interchange, unless each component identified in appendix A to this part has passed an inspection in accordance with the terms of this section at least once during the preceding 12 months and documentation of such inspection is on the vehicle. The documentation may be: (1) The inspection report prepared in accordance with \u00a7 396.21(a), or (2) Other forms of documentation, based on the inspection report (e.g., sticker or decal), which contains: the date of inspection; name and address of the motor carrier, intermodal equipment provider, or other entity where the inspection report is maintained; information uniquely identifying the vehicle inspected; and a certification that the vehicle has passed an inspection in accordance with \u00a7 396.17.\n\n(d) A motor carrier may perform the required annual inspection for vehicles under the carrier's control which are not subject to an inspection under \u00a7 396.23(a)(1).\n\n(e) In lieu of self-inspection, a motor carrier or intermodal equipment provider responsible for the inspection may choose to have a commercial garage, fleet leasing company, truck stop, or other similar commercial business perform the inspection as its agent, provided that business operates and maintains facilities appropriate for commercial vehicle inspections and it employs qualified inspectors, as required by \u00a7 396.19.\n\n(f) Vehicles passing periodic inspections performed under the auspices of any State government or equivalent jurisdiction in the Canadian Provinces, the Yukon Territory, and Mexico, meeting the minimum standards contained in appendix A to this part, will be considered to have met the requirements of an annual inspection for a period of 12 months commencing from the last day of the month in which the inspection was performed.\n\n(g) It is the responsibility of the motor carrier or intermodal equipment provider to ensure that all parts and accessories on commercial motor vehicles intended for use in interstate commerce for which they are responsible are maintained at, or promptly repaired to, the minimum standards set forth in appendix A to this part.\n\n(h) Failure to perform properly the annual inspection required by this section shall cause the motor carrier or intermodal equipment provider to be subject to the penalty provisions of 49 U.S.C. 521(b)."
+  },
+  {
+    "id": "396-section-396-19",
+    "part": "396",
+    "section": "\u00a7 396.19 Inspector qualifications.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.19 Inspector qualifications.",
+    "text": "(a) Motor carriers and intermodal equipment providers must ensure that individuals performing annual inspections under \u00a7 396.17(d) or (e) are qualified as follows: (1) Understand the inspection criteria set forth in part 393 and appendix A to this part and can identify defective components; (2) Are knowledgeable of and have mastered the methods, procedures, tools and equipment used when performing an inspection; and (3) Are capable of performing an inspection by reason of experience, training, or both \u2014 either successful completion of a Federal- or State-sponsored training program, or a combination of training or experience totaling at least 1 year.\n\n(b) Motor carriers and intermodal equipment providers must retain evidence of that individual's qualifications under this section for the period during which that individual is performing annual motor vehicle inspections, and for one year thereafter."
+  },
+  {
+    "id": "396-section-396-21",
+    "part": "396",
+    "section": "\u00a7 396.21 Periodic inspection recordkeeping requirements.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.21 Periodic inspection recordkeeping requirements.",
+    "text": "(a) The qualified inspector performing the inspection shall prepare a report that: (1) Identifies the individual performing the inspection; (2) Identifies the motor carrier operating the vehicle; (3) Identifies the date of the inspection; (4) Identifies the vehicle inspected; (5) Identifies the vehicle components inspected and describes the results, including components not meeting minimum standards; and (6) Certifies the accuracy and completeness of the inspection.\n\n(b)(1) The original or a copy of the inspection report shall be retained by the motor carrier, intermodal equipment provider, or other entity responsible for the inspection for a period of fourteen months from the date of the inspection report."
+  },
+  {
+    "id": "396-section-396-23",
+    "part": "396",
+    "section": "\u00a7 396.23 Equivalent to periodic inspection.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.23 Equivalent to periodic inspection.",
+    "text": "(a)(1) If a commercial motor vehicle is subject to a mandatory inspection program that is determined by the Administrator to be as effective as \u00a7 396.17, the motor carrier or intermodal equipment provider must meet the requirement of \u00a7 396.17 through that inspection program. Commercial motor vehicle inspections may be conducted by government personnel, at commercial facilities authorized by a State government or equivalent jurisdiction in the Canadian Provinces, the Yukon Territory, or Mexico, or by the motor carrier or intermodal equipment provider itself under the auspices of a self-inspection program authorized by such a jurisdiction.\n\n(2) Should FMCSA determine that an inspection program, in whole or in part, is not as effective as \u00a7 396.17, the motor carrier or intermodal equipment provider must ensure that the periodic inspection required by \u00a7 396.17 is performed on all commercial motor vehicles under its control in a manner specified in \u00a7 396.17."
+  },
+  {
+    "id": "396-section-396-25",
+    "part": "396",
+    "section": "\u00a7 396.25 Qualifications of brake inspectors.",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "\u00a7 396.25 Qualifications of brake inspectors.",
+    "text": "(a) Motor carriers and intermodal equipment providers must ensure that all inspections, maintenance, repairs or service to the brakes of its commercial motor vehicles, are performed in compliance with the requirements of this section.\n\n(c) No motor carrier or intermodal equipment provider may require or permit any employee who does not meet the minimum brake inspector qualifications of paragraph (d) of this section to be responsible for the inspection, maintenance, service or repairs of any brakes on its commercial motor vehicles.\n\n(d) The motor carrier or intermodal equipment provider must ensure that each brake inspector is qualified as follows: (1) Understands the brake service or inspection task to be accomplished and can perform that task; (2) Is knowledgeable of and has mastered the methods, procedures, tools and equipment used; and (3) Is capable of performing the assigned brake service or inspection by reason of experience, training, or both totaling at least one year."
+  },
+  {
+    "id": "396-appendix-a-to-part-396-minimum-periodic-inspection-standards",
+    "part": "396",
+    "section": "Appendix A to Part 396\u2014Minimum Periodic Inspection Standards",
+    "domain": "inspection",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396",
+    "title": "Appendix A to Part 396\u2014Minimum Periodic Inspection Standards",
+    "text": "A vehicle does not pass an inspection if it has one of the following defects or deficiencies:\n\n1. Brake System.\n\na. Service brakes.\n\n(1) Absence of braking action on any axle required to have brakes upon application of the service brakes (such as missing brakes or brake shoe(s) failing to move upon application of a wedge, S-cam, cam, or disc brake).\n\n(2) Missing or broken mechanical components including: shoes, lining, pads, springs, anchor pins, spiders, cam rollers, push-rods, and air chamber mounting bolts.\n\n(3) Loose brake components including air chambers, spiders, and cam shaft support brackets.\n\n(4) Audible air leak at brake chamber (Example-ruptured diaphragm, loose chamber clamp, etc.).\n\n(6) Brake linings or pads. (a) Lining or pad is not firmly attached to the shoe; (b) Saturated with oil, grease, or brake fluid; or (c) Non-steering axles: Lining with a thickness less than 1/4 inch at the shoe center for air drum brakes, 1/16 inch or less at the shoe center for hydraulic and electric drum brakes, and less than 1/8 inch for air disc brakes. (d) Steering axles: Lining with a thickness less than 1/4 inch at the shoe center for drum brakes, less than 1/8 inch for air disc brakes and 1/16 inch or less for hydraulic disc and electric brakes.\n\n(7) Missing brake on any axle required to have brakes.\n\nb. Parking Brake System. No brakes on the vehicle or combination are applied upon actuation of the parking brake control, including driveline hand controlled parking brakes.\n\nc. Brake Drums or Rotors. (1) With any external crack or cracks that open upon brake application. (2) Any portion of the drum or rotor missing or in danger of falling away.\n\nd. Brake Hose. (1) Hose with any damage extending through the outer reinforcement ply. (2) Bulge or swelling when air pressure is applied. (3) Any audible leaks. (5) Air hose cracked, broken or crimped.\n\nf. Low Pressure Warning Device missing, inoperative, or does not operate at 55 psi and below, or 1/2 the governor cut-out pressure, whichever is less.\n\ng. Tractor Protection Valve. Inoperable or missing tractor protection valve(s) on power unit.\n\nl. Antilock Brake System (1) Missing ABS malfunction indicator components. (2) ABS malfunction indicator that does not illuminate when power is first applied to the ABS controller during initial power up. (3) ABS malfunction indicator that stays illuminated while power is continuously applied to the ABS controller.\n\nm. Automatic Brake Adjusters (1) Failure to maintain a brake within the brake stroke limit specified by the vehicle manufacturer. (2) Any automatic brake adjuster that has been replaced with a manual adjuster.\n\n2. Coupling devices.\n\na. Fifth Wheels. (1) Mounting to frame \u2014 any fasteners missing or ineffective, any movement between mounting components, any mounting angle iron cracked or broken. (4) Lower coupler \u2014 horizontal movement between the upper and lower fifth wheel halves exceeds 1/2 inch; kingpin not properly engaged; locking mechanism parts missing, broken, or deformed to the extent the kingpin is not securely held.\n\n3. Exhaust System.\n\na. Any exhaust system determined to be leaking at a point forward of or directly below the driver/sleeper compartment.\n\n4. Fuel System.\n\na. A fuel system with a visible leak at any point. b. A fuel tank filler cap missing. c. A fuel tank not securely attached to the motor vehicle by reason of loose, broken or missing mounting bolts or brackets.\n\n5. Lighting Devices. All lighting devices and reflectors required by part 393 shall be operable.\n\n6. Safe Loading.\n\na. Part(s) of vehicle or condition of loading such that the spare tire or any part of the load or dunnage can fall onto the roadway. c. Container securement devices on intermodal equipment that are cracked, broken, loose, or missing.\n\n7. Steering Mechanism.\n\na. Steering Wheel Free Play limits vary by wheel diameter and steering system type. c. Front Axle Beam and All Steering Components Other Than Steering Column \u2014 any cracks, any obvious welded repairs.\n\n8. Suspension.\n\na. Any U-bolt(s), spring hanger(s), or other axle positioning part(s) cracked, broken, loose or missing resulting in shifting of an axle from its normal position. b. Spring Assembly \u2014 any leaves in a leaf spring assembly broken or missing; any broken main leaf; coil spring broken; deflated air suspension (system failure, leak, etc.).\n\n9. Frame.\n\na. Frame Members \u2014 any cracked, broken, loose, or sagging frame member; any loose or missing fasteners attaching functional components.\n\n10. Tires.\n\na. Any tire on any steering axle of a power unit with less than 4/32 inch tread when measured at any point on a major tread groove, or with body ply or belt material exposed through the tread or sidewall, or any tread or sidewall separation, or a cut where ply or belt material is exposed, or is flat or has a noticeable leak.\n\nb. All tires other than steering axle tires \u2014 with less than 2/32 inch tread when measured at any point on a major tread groove.\n\n11. Wheels and Rims.\n\na. Lock or Side Ring \u2014 bent, broken, cracked, improperly seated, sprung or mismatched. b. Wheels and rims cracked or broken or has elongated bolt holes.\n\n12. Windshield Glazing. Any crack, discoloration or vision reducing matter, subject to specified exceptions for minor cracks and damage.\n\n13. Windshield Wipers. Any power unit that has an inoperative wiper, or missing or damaged parts that render it ineffective.\n\n15. Rear Impact Guard.\n\na. Trailers and semitrailers with a GVWR of 4,536 kg (10,001 lbs.) or more, manufactured on or after January 26, 1998 \u2014 missing guard; guard not securely attached; guard horizontal member positioning outside specified tolerances."
+  },
+  {
+    "id": "397-section-397-1",
+    "part": "397",
+    "section": "\u00a7 397.1 Application of the rules in this part.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.1 Application of the rules in this part.",
+    "text": "(a) The rules in this part apply to each motor carrier engaged in the transportation of hazardous materials by a motor vehicle which must be marked or placarded in accordance with \u00a7 177.823 of this title and to\u2014\n\n(1) Each officer or employee of the motor carrier who performs supervisory duties related to the transportation of hazardous materials; and\n\n(2) Each person who operates or who is in charge of a motor vehicle containing hazardous materials.\n\n(b) Each person designated in paragraph (a) of this section must know and obey the rules in this part."
+  },
+  {
+    "id": "397-section-397-2",
+    "part": "397",
+    "section": "\u00a7 397.2 Compliance with Federal motor carrier safety regulations.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.2 Compliance with Federal motor carrier safety regulations.",
+    "text": "A motor carrier or other person to whom this part is applicable must comply with the rules in parts 390 through 397, inclusive, of this subchapter when he/she is transporting hazardous materials by a motor vehicle which must be marked or placarded in accordance with \u00a7 177.823 of this title."
+  },
+  {
+    "id": "397-section-397-3",
+    "part": "397",
+    "section": "\u00a7 397.3 State and local laws, ordinances, and regulations.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.3 State and local laws, ordinances, and regulations.",
+    "text": "Every motor vehicle containing hazardous materials must be driven and parked in compliance with the laws, ordinances, and regulations of the jurisdiction in which it is being operated, unless they are at variance with specific regulations of the Department of Transportation which are applicable to the operation of that vehicle and which impose a more stringent obligation or restraint."
+  },
+  {
+    "id": "397-section-397-5",
+    "part": "397",
+    "section": "\u00a7 397.5 Attendance and surveillance of motor vehicles.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.5 Attendance and surveillance of motor vehicles.",
+    "text": "(a) Except as provided in paragraph (b) of this section, a motor vehicle which contains a Division 1.1, 1.2, or 1.3 (explosive) material must be attended at all times by its driver or a qualified representative of the motor carrier that operates it.\n\n(b) The rules in paragraph (a) of this section do not apply to a motor vehicle which contains Division 1.1, 1.2, or 1.3 material if all the following conditions exist\u2014\n\n(1) The vehicle is located on the property of a motor carrier, on the property of a shipper or consignee of the explosives, in a safe haven, or, in the case of a vehicle containing 50 pounds or less of a Division 1.1, 1.2, or 1.3 material, on a construction or survey site; and\n\n(2) The lawful bailee of the explosives is aware of the nature of the explosives the vehicle contains and has been instructed in the procedures which must be followed in emergencies; and\n\n(3) The vehicle is within the bailee's unobstructed field of view or is located in a safe haven.\n\n(c) A motor vehicle which contains hazardous materials other than Division 1.1, 1.2, or 1.3, materials, and which is located on a public street or highway, or the shoulder of a public highway, must be attended by its driver. However, the vehicle need not be attended while its driver is performing duties which are incident and necessary to the driver's duties as the operator of the vehicle.\n\n(d) For purposes of this section\u2014\n\n(1) A motor vehicle is attended when the person in charge of the vehicle is on the vehicle, awake, and not in a sleeper berth, or is within 100 feet of the vehicle and has it within his/her unobstructed field of view.\n\n(2) A qualified representative of a motor carrier is a person who\u2014\n\n(i) Has been designated by the carrier to attend the vehicle;\n\n(ii) Is aware of the nature of the hazardous materials contained in the vehicle he/she attends;\n\n(iii) Has been instructed in the procedures he/she must follow in emergencies; and\n\n(iv) Is authorized to move the vehicle and has the means and ability to do so.\n\n(3) A safe haven is an area specifically approved in writing by local, State, or Federal governmental authorities for the parking of unattended vehicles containing Division 1.1, 1.2, or 1.3 materials.\n\n(e) The rules in this section do not relieve the driver from any obligation imposed by law relating to the placing of warning devices when a motor vehicle is stopped on a public street or highway."
+  },
+  {
+    "id": "397-section-397-7",
+    "part": "397",
+    "section": "\u00a7 397.7 Parking.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.7 Parking.",
+    "text": "(a) A motor vehicle which contains Division 1.1, 1.2, or 1.3 materials must not be parked under any of the following circumstances\u2014\n\n(1) On or within 5 feet of the traveled portion of a public street or highway;\n\n(2) On private property (including premises of fueling or eating facility) without the knowledge and consent of the person who is in charge of the property and who is aware of the nature of the hazardous materials the vehicle contains; or\n\n(3) Within 300 feet of a bridge, tunnel, dwelling, or place where people work, congregate, or assemble, except for brief periods when the necessities of operation require the vehicle to be parked and make it impracticable to park the vehicle in any other place.\n\n(b) A motor vehicle which contains hazardous materials other than Division 1.1, 1.2, or 1.3 materials must not be parked on or within five feet of the traveled portion of public street or highway except for brief periods when the necessities of operation require the vehicle to be parked and make it impracticable to park the vehicle in any other place."
+  },
+  {
+    "id": "397-section-397-11",
+    "part": "397",
+    "section": "\u00a7 397.11 Fires.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.11 Fires.",
+    "text": "(a) A motor vehicle containing hazardous materials must not be operated near an open fire unless its driver has first taken precautions to ascertain that the vehicle can safely pass the fire without stopping.\n\n(b) A motor vehicle containing hazardous materials must not be parked within 300 feet of an open fire."
+  },
+  {
+    "id": "397-section-397-13",
+    "part": "397",
+    "section": "\u00a7 397.13 Smoking.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.13 Smoking.",
+    "text": "No person may smoke or carry a lighted cigarette, cigar, or pipe on or within 25 feet of\u2014\n\n(a) A motor vehicle which contains Class 1 materials, Class 5 materials, or flammable materials classified as Division 2.1, Class 3, Divisions 4.1 and 4.2; or\n\n(b) An empty tank motor vehicle which has been used to transport Class 3, flammable materials, or Division 2.1 flammable gases, which when so used, was required to be marked or placarded in accordance with the rules in \u00a7 177.823 of this title."
+  },
+  {
+    "id": "397-section-397-15",
+    "part": "397",
+    "section": "\u00a7 397.15 Fueling.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.15 Fueling.",
+    "text": "When a motor vehicle which contains hazardous materials is being fueled\u2014\n\n(a) Its engine must not be operating; and\n\n(b) A person must be in control of the fueling process at the point where the fuel tank is filled."
+  },
+  {
+    "id": "397-section-397-17",
+    "part": "397",
+    "section": "\u00a7 397.17 Tires.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.17 Tires.",
+    "text": "(a) A driver must examine each tire on a motor vehicle at the beginning of each trip and each time the vehicle is parked.\n\n(b) If, as the result of an examination pursuant to paragraph (a) of this section, or otherwise, a tire if found to be flat, leaking, or improperly inflated, the driver must cause the tire to be repaired, replaced, or properly inflated before the vehicle is driven. However, the vehicle may be driven to the nearest safe place to perform the required repair, replacement, or inflation.\n\n(c) If, as the result of an examination pursuant to paragraph (a) of this section, or otherwise, a tire is found to be overheated, the driver shall immediately cause the overheated tire to be removed and placed at a safe distance from the vehicle. The driver shall not operate the vehicle until the cause of the overheating is corrected.\n\n(d) Compliance with the rules in this section does not relieve a driver from the duty to comply with the rules in \u00a7\u00a7 397.5 and 397.7."
+  },
+  {
+    "id": "397-section-397-19",
+    "part": "397",
+    "section": "\u00a7 397.19 Instructions and documents.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.19 Instructions and documents.",
+    "text": "(a) A motor carrier that transports Division 1.1, 1.2, or 1.3 (explosive) materials must furnish the driver of each motor vehicle in which the explosives are transported with the following documents:\n\n(1) A copy of the rules in this part;\n\n(2) [Reserved]\n\n(3) A document containing instructions on procedures to be followed in the event of accident or delay. The documents must include the names and telephone numbers of persons (including representatives of carriers or shippers) to be contacted, the nature of the explosives being transported, and the precautions to be taken in emergencies such as fires, accidents, or leakages.\n\n(b) A driver who receives documents in accordance with paragraph (a) of this section must sign a receipt for them. The motor carrier shall maintain the receipt for a period of one year from the date of signature.\n\n(c) A driver of a motor vehicle which contains Division 1.1, 1.2, or 1.3 materials must be in possession of, be familiar with, and be in compliance with\n\n(1) The documents specified in paragraph (a) of this section;\n\n(2) The documents specified in \u00a7 177.817 of this title; and\n\n(3) The written route plan specified in \u00a7 397.67.\n\nSubpart C\u2014Routing of Non-Radioactive Hazardous Materials"
+  },
+  {
+    "id": "397-section-397-61",
+    "part": "397",
+    "section": "\u00a7 397.61 Purpose and scope.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.61 Purpose and scope.",
+    "text": "This subpart contains routing requirements and procedures that States and Indian tribes are required to follow if they establish, maintain, or enforce routing designations over which a non-radioactive hazardous material (NRHM) in a quantity which requires placarding may or may not be transported by a motor vehicle. It also provides regulations for motor carriers transporting placarded or marked NRHM and procedures for dispute resolutions regarding NRHM routing designations."
+  },
+  {
+    "id": "397-section-397-63",
+    "part": "397",
+    "section": "\u00a7 397.63 Applicability.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.63 Applicability.",
+    "text": "The provisions of this subpart apply to any State or Indian tribe that establishes, maintains, or enforces any routing designations over which NRHM may or may not be transported by motor vehicle. They also apply to any motor carrier that transports or causes to be transported placarded or marked NRHM in commerce."
+  },
+  {
+    "id": "397-section-397-65",
+    "part": "397",
+    "section": "\u00a7 397.65 Definitions.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.65 Definitions.",
+    "text": "For purposes of this subpart, the following definitions apply:\n\nAdministrator. The Federal Motor Carrier Safety Administrator, who is the chief executive of the Federal Motor Carrier Safety Administration, an agency within the United States Department of Transportation, or his/her designate.\n\nCommerce. Any trade, traffic, or transportation in the United States which:\n\n(1) Is between a place under the jurisdiction of a State or Indian tribe and any place outside of such jurisdiction; or\n\n(2) Is solely within a place under the jurisdiction of a State or Indian tribe but which affects trade, traffic, or transportation described in paragraph (1) of this definition.\n\nFMCSA. The Federal Motor Carrier Safety Administration, an agency within the Department of Transportation.\n\nHazardous material. A substance or material, including a hazardous substance, which has been determined by the Secretary of Transportation to be capable of posing an unreasonable risk to health, safety, or property when transported in commerce, and which has been so designated.\n\nIndian tribe. Has the same meaning as contained in section 4 of the Indian Self-Determination and Education Act, 25 U.S.C. 450b.\n\nMotor carrier. A for-hire motor carrier or a private motor carrier of property. The term includes a motor carrier's agents, officers and representatives as well as employees responsible for hiring, supervising, training, assigning, or dispatching of drivers.\n\nMotor vehicle. Any vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used upon the highways in the transportation of passengers or property, or any combination thereof.\n\nNRHM. A non-radioactive hazardous material transported by motor vehicle in types and quantities which require placarding, pursuant to Table 1 or 2 of 49 CFR 172.504.\n\nPolitical subdivision. A municipality, public agency or other instrumentality of one or more States, or a public corporation, board, or commission established under the laws of one or more States.\n\nRadioactive material. As defined in 49 CFR 173.403, radioactive material means any material containing radionuclides where both the activity concentration and the total activity in the consignment exceed the values of the table in 49 CFR 173.436 or values derived according to the instructions in 49 CFR 173.433.\n\nRouting agency. The State highway agency or other State agency designated by the Governor of that State, or an agency designated by an Indian tribe, to supervise, coordinate, and approve the NRHM routing designations for that State or Indian tribe.\n\nRouting designations. Any regulation, limitation, restriction, curfew, time of travel restriction, lane restriction, routing ban, port-of-entry designation, or route weight restriction, applicable to the highway transportation of NRHM over a specific highway route or portion of a route.\n\nSecretary. The Secretary of Transportation.\n\nState. A State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, American Samoa or Guam."
+  },
+  {
+    "id": "397-section-397-67",
+    "part": "397",
+    "section": "\u00a7 397.67 Motor carrier responsibility for routing.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.67 Motor carrier responsibility for routing.",
+    "text": "(a) A motor carrier transporting NRHM shall comply with NRHM routing designations of a State or Indian tribe pursuant to this subpart.\n\n(b) A motor carrier carrying hazardous materials required to be placarded or marked in accordance with 49 CFR 177.823 and not subject to NRHM routing designations pursuant to this subpart, shall operate the vehicle over routes which do not go through or near heavily populated areas, places where crowds are assembled, tunnels, narrow streets, or alleys, except where the motor carrier determines that:\n\n(1) There is no practicable alternative;\n\n(2) A reasonable deviation is necessary to reach terminals, points of loading and unloading, facilities for food, fuel, repairs, rest, or a safe haven; or\n\n(3) A reasonable deviation is required by emergency conditions, such as a detour that has been established by a highway authority, or a situation exists where a law enforcement official requires the driver to take an alternative route.\n\n(c) Operating convenience is not a basis for determining whether it is practicable to operate a motor vehicle in accordance with paragraph (b) of this section.\n\n(d) Before a motor carrier requires or permits a motor vehicle containing explosives in Class 1, Divisions 1.1, 1.2, or 1.3, as defined in 49 CFR 173.50 and 173.53 respectively, to be operated, the carrier or its agent shall prepare a written route plan that complies with this section and shall furnish a copy to the driver. However, the driver may prepare the written plan as agent for the motor carrier when the trip begins at a location other than the carrier's terminal."
+  },
+  {
+    "id": "397-section-397-69",
+    "part": "397",
+    "section": "\u00a7 397.69 Highway routing designations; preemption.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.69 Highway routing designations; preemption.",
+    "text": "(a) Any State or Indian tribe that establishes or modifies a highway routing designation over which NRHM may or may not be transported on or after November 14, 1994, and maintains or enforces such designation, shall comply with the highway routing standards set forth in \u00a7 397.71 of this subpart. For purposes of this subpart, any highway routing designation affecting the highway transportation of NRHM, made by a political subdivision of a State is considered as one made by that State, and all requirements of this subpart apply.\n\n(b) Except as provided in \u00a7\u00a7 397.75 and 397.219, an NRHM route designation made in violation of paragraph (a) of this section is preempted pursuant to 49 U.S.C. 5125(c)."
+  },
+  {
+    "id": "397-section-397-71",
+    "part": "397",
+    "section": "\u00a7 397.71 Federal standards.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.71 Federal standards.",
+    "text": "(a) A State or Indian tribe shall comply with the Federal standards under paragraph (b) of this section when establishing, maintaining or enforcing specific NRHM routing designations over which NRHM may or may not be transported.\n\n(b) The Federal standards include: enhancement of public safety, public participation, consultation with others, through routing, agreement of other States, timeliness, reasonable routes to terminals and other facilities, responsibility for local compliance, and consideration of factors including population density, type of highway, types and quantities of NRHM, emergency response capabilities, results of consultation with affected persons, exposure and other risk factors, terrain considerations, continuity of routes, alternative routes, effects on commerce, delays in transportation, climatic conditions, and congestion and accident history."
+  },
+  {
+    "id": "397-section-397-73",
+    "part": "397",
+    "section": "\u00a7 397.73 Public information and reporting requirements.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.73 Public information and reporting requirements.",
+    "text": "(a) Public information. Information on NRHM routing designations must be made available by the States and Indian tribes to the public in the form of maps, lists, road signs or some combination thereof.\n\n(b) Reporting and publishing requirements.\n\n(1) Each State or Indian tribe, through its routing agency, shall provide information identifying all NRHM routing designations that exist within its jurisdiction.\n\n(3)(i) FMCSA will consolidate information on the NRHM routing designations, make it available on its website, https://www.fmcsa.dot.gov/regulations/hazardous-materials/national-hazardous-materials-route-registry, and publish it annually in whole or as updates in the Federal Register.\n\n(c) A State or Tribally-designated route is effective only after it is published in the National Hazardous Materials Route Registry on FMCSA's website at https://www.fmcsa.dot.gov/regulations/hazardous-materials/national-hazardous-materials-route-registry."
+  },
+  {
+    "id": "397-section-397-75",
+    "part": "397",
+    "section": "\u00a7 397.75 Dispute resolution.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.75 Dispute resolution.",
+    "text": "(a) Petition. One or more States or Indian tribes may petition the Administrator to resolve a dispute relating to an agreement on a proposed NRHM routing designation. In resolving a dispute under these provisions, the Administrator will provide the greatest level of safety possible without unreasonably burdening commerce, and ensure compliance with the Federal standards established at \u00a7 397.71 of this subpart."
+  },
+  {
+    "id": "397-section-397-77",
+    "part": "397",
+    "section": "\u00a7 397.77 Judicial review of dispute decision.",
+    "domain": "hazmat",
+    "source_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-397/subpart-A",
+    "title": "\u00a7 397.77 Judicial review of dispute decision.",
+    "text": "Any State or Indian tribe adversely affected by the Administrator's decision under \u00a7 397.75 of this subpart may seek review by the appropriate district court of the United States under such proceeding only by filing a petition with such court within 90 days after such decision becomes final."
+  }
+]
