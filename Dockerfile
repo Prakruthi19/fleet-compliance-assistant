@@ -20,7 +20,9 @@ COPY regrag/ regrag/
 COPY --from=web /web/dist web/dist
 # Small runtime data: title catalog, ingest state (corpus version, dense
 # status) and the precomputed obligation cards. The vectors live in Qdrant.
-COPY data/catalog.json data/obligations.json data/state.db data/
+COPY data/catalog.json data/obligations.json data/
+# Slim copy of data/state.db (titles table only; regenerate after re-ingest).
+COPY data/state.deploy.db data/state.db
 # Hugging Face Spaces runs the container as uid 1000; let it write feedback
 # and model cache files.
 RUN chmod -R a+rwX /app/data /models

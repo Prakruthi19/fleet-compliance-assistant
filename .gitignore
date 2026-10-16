@@ -3,6 +3,7 @@ venv/
 # regrag generated data
 data/raw/
 data/state.db
+!data/state.deploy.db
 data/qdrant_local/
 __pycache__/
 logs/
