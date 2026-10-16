@@ -14,8 +14,16 @@ ENV PYTHONUNBUFFERED=1 \
     FASTEMBED_CACHE_PATH=/models
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
+# Bake the search models into the image so a cold start doesn't download them.
+RUN python -c "from fastembed import TextEmbedding, SparseTextEmbedding; TextEmbedding('BAAI/bge-small-en-v1.5'); SparseTextEmbedding('Qdrant/bm25')"
 COPY regrag/ regrag/
 COPY --from=web /web/dist web/dist
+# Small runtime data: title catalog, ingest state (corpus version, dense
+# status) and the precomputed obligation cards. The vectors live in Qdrant.
+COPY data/catalog.json data/obligations.json data/state.db data/
+# Hugging Face Spaces runs the container as uid 1000; let it write feedback
+# and model cache files.
+RUN chmod -R a+rwX /app/data /models
 # Hosts like Hugging Face Spaces / Render set PORT; default 8000 locally.
 EXPOSE 8000
 CMD ["sh", "-c", "uvicorn regrag.api:app --host 0.0.0.0 --port ${PORT:-8000}"]
