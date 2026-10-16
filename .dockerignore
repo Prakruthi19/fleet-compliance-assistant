@@ -1,0 +1,10 @@
+web/node_modules
+web/dist
+venv
+venv-eval
+data/raw
+data/qdrant_local
+logs
+evals/runs
+**/__pycache__
+.env

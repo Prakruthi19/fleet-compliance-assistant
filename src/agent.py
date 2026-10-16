@@ -236,3 +236,4 @@ if __name__ == "__main__":
     print(f"Hops used: {result['hop_count']}")
     print(f"Chunks retrieved: {[c['id'] for c in result['retrieved_chunks']]}")
     print(f"\nAnswer:\n{result['answer']}")
+    

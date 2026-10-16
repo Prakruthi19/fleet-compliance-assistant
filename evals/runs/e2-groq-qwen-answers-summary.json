@@ -1,0 +1,19 @@
+{
+ "mode": "answers",
+ "name": "e2-groq-qwen",
+ "k": 6,
+ "candidates": 30,
+ "llm": "openai:qwen/qwen3.8-27b",
+ "router": "citation",
+ "results": {
+  "run_file": "D:\\multi-hop-rag\\evals\\runs\\e2-groq-qwen.jsonl",
+  "n": 50,
+  "route_s_p50": 0.0,
+  "search_s_p50": 0.03,
+  "generate_s_p50": 23.28,
+  "first_token_s_p50": 22.71,
+  "total_s_p50": 23.33,
+  "first_token_s_p95": 34.72,
+  "total_s_p95": 35.14
+ }
+}

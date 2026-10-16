@@ -9,7 +9,8 @@ Why section-based for this corpus: FMCSA regulation text is already
 organized into legally meaningful units (sections), and questions in this
 domain ("what does § 396.17 require?") map naturally onto that boundary.
 Fixed-size chunking would risk splitting a rule from its own exceptions
-mid-paragraph; section-based chunking respects the document's own structure
+mid-paragraph; section-based chunking respects t
+he document's own structure
 instead of imposing an arbitrary size limit.
 
 Trade-off: some sections (e.g. Appendix A's brake-defect list, or § 383.51's

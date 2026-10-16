@@ -1,0 +1,13 @@
+{
+ "run_file": "evals\\runs\\e2-groq-qwen.jsonl",
+ "judge": "openai-compatible:openai/gpt-oss-120b",
+ "n": 20,
+ "citations_valid": 1.0,
+ "citations_valid_failed": 0,
+ "faithfulness": 0.95,
+ "faithfulness_failed": 5,
+ "answer_relevancy": 0.95,
+ "answer_relevancy_failed": 5,
+ "contextual_recall": 0.867,
+ "contextual_recall_failed": 5
+}

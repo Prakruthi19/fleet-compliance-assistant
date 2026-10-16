@@ -1,2 +1,13 @@
 .env
 venv/
+# regrag generated data
+data/raw/
+data/state.db
+data/qdrant_local/
+__pycache__/
+logs/
+venv-eval/
+web/node_modules/
+web/dist/
+data/feedback.jsonl
+evals/runs/*.log
