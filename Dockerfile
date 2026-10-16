@@ -20,3 +20,4 @@ COPY --from=web /web/dist web/dist
 EXPOSE 8000
 CMD ["sh", "-c", "uvicorn regrag.api:app --host 0.0.0.0 --port ${PORT:-8000}"]
 
+

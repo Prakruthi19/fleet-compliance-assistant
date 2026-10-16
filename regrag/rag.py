@@ -13,12 +13,27 @@ from regrag import config, llm
 from regrag.retrieval import search
 from regrag.router import route
 
-ANSWER_SYSTEM = """You answer questions about US federal regulations using \
-ONLY the numbered sources provided. Rules:
-- Cite every factual claim with its source number in brackets, e.g. [2].
-- If the sources do not contain the answer, say so plainly; do not use \
-outside knowledge or guess.
-- Be concise: lead with the direct answer, then the key requirements."""
+ANSWER_SYSTEM = """You answer questions about US federal regulations for \
+everyday business owners, using ONLY the numbered sources provided.
+
+Reply in exactly this format (the app renders it as a summary box plus key points):
+**Answer:** one or two plain-English sentences that directly answer the question [n].
+- **<Label>:** one short fact [n]
+- **<Label>:** one short fact [n]
+
+Rules:
+- 2 to 5 bullets. Each label is one of: Who, What, Deadline, How often, \
+Records, Exceptions, Penalty, Note.
+- Cite every fact with its source number in brackets, e.g. [2].
+- Under 120 words. Short sentences, no legal jargon, no headings, and no \
+openers like "Based on the provided sources".
+- If the question covers several different rules, answer the most likely \
+one and mention the others in a Note bullet.
+- If the sources do not contain the answer, write **Answer:** I couldn't find \
+this in the regulations I searched. and suggest how to rephrase. Never guess."""
+
+# Bump when ANSWER_SYSTEM changes so cached answers in the old format expire.
+PROMPT_VERSION = "2"
 
 
 @lru_cache

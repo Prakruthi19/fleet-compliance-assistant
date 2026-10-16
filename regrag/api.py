@@ -3,6 +3,7 @@ HTTP API. Run: uvicorn regrag.api:app --port 8000
 
   POST /api/ask       {"question": "..."} -> text/event-stream of pipeline events
                       (scope, sources, answer tokens, timings)
+  GET  /api/obligations  precomputed profile -> requirement cards (regrag.obligations)
   GET  /api/titles    indexed titles and whether semantic search is enabled for each
   POST /api/feedback  thumbs up/down + comment, appended to data/feedback.jsonl
                       (becomes eval cases)
@@ -28,7 +29,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 
-from regrag import catalog, config, llm, rag
+from regrag import catalog, config, llm, obligations, rag
 from regrag.retrieval import _dense_status, search
 
 FEEDBACK = config.DATA_DIR / "feedback.jsonl"
@@ -56,7 +57,7 @@ def corpus_version() -> str:
 
 def cache_key(question: str) -> str:
     norm = " ".join(question.lower().split())
-    return f"regrag:answer:{config.LLM_MODEL}:{corpus_version()}:{hashlib.sha1(norm.encode()).hexdigest()}"
+    return f"regrag:answer:{config.LLM_MODEL}:p{rag.PROMPT_VERSION}:{corpus_version()}:{hashlib.sha1(norm.encode()).hexdigest()}"
 
 
 @asynccontextmanager
@@ -142,6 +143,11 @@ def titles():
     dense = _dense_status()
     return [{"number": n, "name": t["name"], "semantic": dense.get(n, False)}
             for n, t in sorted(catalog.load().items())]
+
+
+@app.get("/api/obligations")
+def get_obligations():
+    return obligations.load()
 
 
 @app.post("/api/feedback")

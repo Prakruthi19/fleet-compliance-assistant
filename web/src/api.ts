@@ -76,3 +76,29 @@ export async function sendFeedback(body: {
     body: JSON.stringify(body),
   })
 }
+
+export type Requirement = { text: string; source: number }
+export type ObligationCard = {
+  id: string
+  name: string
+  when: string | null
+  summary: string
+  applies_to: string
+  requirements: Requirement[]
+  how_often: string
+  records: string[]
+  sources: Omit<Source, 'n'>[]
+}
+export type Profile = {
+  id: string
+  name: string
+  title: number
+  blurb: string
+  questions: { id: string; label: string }[]
+  cards: ObligationCard[]
+}
+
+export async function getObligations(): Promise<Profile[]> {
+  const res = await fetch('/api/obligations')
+  return res.ok ? (await res.json()).profiles ?? [] : []
+}
