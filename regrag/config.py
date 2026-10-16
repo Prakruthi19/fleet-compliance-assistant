@@ -19,8 +19,9 @@ DATA_DIR = Path(os.environ.get("REGRAG_DATA_DIR", ROOT / "data"))
 RAW_DIR = DATA_DIR / "raw"
 STATE_DB = DATA_DIR / "state.db"
 
-QDRANT_URL = os.environ.get("QDRANT_URL")  # e.g. http://localhost:6333
-QDRANT_API_KEY = os.environ.get("QDRANT_API_KEY")  # Qdrant Cloud
+QDRANT_URL = (os.environ.get("QDRANT_URL") or "").strip() or None  # e.g. http://localhost:6333
+# Stripped: values pasted into hosting dashboards often carry stray whitespace.
+QDRANT_API_KEY = (os.environ.get("QDRANT_API_KEY") or "").strip() or None  # Qdrant Cloud
 QDRANT_PATH = os.environ.get("QDRANT_PATH", str(DATA_DIR / "qdrant_local"))
 COLLECTION = os.environ.get("QDRANT_COLLECTION", "ecfr")
 
@@ -39,7 +40,7 @@ ECFR_API = "https://www.ecfr.gov/api/versioner/v1"
 LLM_PROVIDER = os.environ.get("LLM_PROVIDER", "ollama")
 LLM_MODEL = os.environ.get("LLM_MODEL", "qwen3.5:4b")
 LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://api.groq.com/openai/v1")
-LLM_API_KEY = os.environ.get("LLM_API_KEY")
+LLM_API_KEY = (os.environ.get("LLM_API_KEY") or "").strip() or None
 # Hosted reasoning models think silently before the first token; on Groq,
 # "low" (gpt-oss) or "none" (qwen) cut first-token time from ~8-11 s to ~1 s.
 LLM_REASONING_EFFORT = os.environ.get("LLM_REASONING_EFFORT")
