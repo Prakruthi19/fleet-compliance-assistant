@@ -13,7 +13,7 @@ from functools import lru_cache
 
 from qdrant_client import QdrantClient, models
 
-from regrag.config import COLLECTION, DENSE_MODEL, QDRANT_PATH, QDRANT_URL, SPARSE_MODEL
+from regrag.config import COLLECTION, DENSE_MODEL, QDRANT_API_KEY, QDRANT_PATH, QDRANT_URL, SPARSE_MODEL
 
 DENSE = "dense"
 SPARSE = "bm25"
@@ -22,7 +22,7 @@ SPARSE = "bm25"
 @lru_cache
 def client() -> QdrantClient:
     if QDRANT_URL:
-        return QdrantClient(url=QDRANT_URL, timeout=120)
+        return QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=120)
     return QdrantClient(path=QDRANT_PATH)
 
 

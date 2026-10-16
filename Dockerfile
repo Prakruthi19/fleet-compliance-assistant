@@ -16,5 +16,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 COPY regrag/ regrag/
 COPY --from=web /web/dist web/dist
+# Hosts like Hugging Face Spaces / Render set PORT; default 8000 locally.
 EXPOSE 8000
-CMD ["uvicorn", "regrag.api:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "-c", "uvicorn regrag.api:app --host 0.0.0.0 --port ${PORT:-8000}"]
+

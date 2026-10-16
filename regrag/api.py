@@ -19,10 +19,11 @@ import hashlib
 import json
 import sqlite3
 import time
+from collections import defaultdict, deque
 from contextlib import asynccontextmanager
 from datetime import datetime, timezone
 
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
@@ -86,14 +87,33 @@ class Feedback(BaseModel):
     sources: list[str] = []
 
 
+_asks: dict[str, deque] = defaultdict(deque)
+
+
+def _check_limit(request: Request) -> None:
+    """In-memory sliding window per client IP; fine for a single-instance demo."""
+    if not config.ASK_LIMIT_PER_HOUR:
+        return
+    fwd = request.headers.get("x-forwarded-for")
+    ip = fwd.split(",")[0].strip() if fwd else (request.client.host if request.client else "?")
+    now, q = time.time(), _asks[ip]
+    while q and now - q[0] > 3600:
+        q.popleft()
+    if len(q) >= config.ASK_LIMIT_PER_HOUR:
+        raise HTTPException(429, f"Demo limit: {config.ASK_LIMIT_PER_HOUR} questions per hour. Try again later.")
+    q.append(now)
+
+
 def _sse(event: dict) -> str:
     return f"data: {json.dumps(event)}\n\n"
 
 
 @app.post("/api/ask")
-def ask(body: Ask):
+def ask(body: Ask, request: Request):
     r = app.state.redis
     key = cache_key(body.question)
+    if r is None or not r.exists(key):  # cached answers cost no LLM quota
+        _check_limit(request)
 
     def stream():
         if r is not None and (cached := r.get(key)):

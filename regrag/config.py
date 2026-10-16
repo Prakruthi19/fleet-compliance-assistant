@@ -20,6 +20,7 @@ RAW_DIR = DATA_DIR / "raw"
 STATE_DB = DATA_DIR / "state.db"
 
 QDRANT_URL = os.environ.get("QDRANT_URL")  # e.g. http://localhost:6333
+QDRANT_API_KEY = os.environ.get("QDRANT_API_KEY")  # Qdrant Cloud
 QDRANT_PATH = os.environ.get("QDRANT_PATH", str(DATA_DIR / "qdrant_local"))
 COLLECTION = os.environ.get("QDRANT_COLLECTION", "ecfr")
 
@@ -56,6 +57,9 @@ CANDIDATES = int(os.environ.get("CANDIDATES", "30"))   # hybrid search results f
 CONTEXT_K = int(os.environ.get("CONTEXT_K", "6"))      # reranked chunks given to the LLM
 
 REDIS_URL = os.environ.get("REDIS_URL")  # e.g. redis://localhost:6380/0; unset disables caching
+# Per-client /api/ask limit for a public demo: the free Groq quota is shared
+# by everyone. 0 disables.
+ASK_LIMIT_PER_HOUR = int(os.environ.get("ASK_LIMIT_PER_HOUR", "0"))
 CORS_ORIGINS = os.environ.get("CORS_ORIGINS", "http://localhost:3000,http://localhost:5173").split(",")
 
 # Scope selection before search. Eval e1 (50 q, keyword-only index):

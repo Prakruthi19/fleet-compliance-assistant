@@ -31,7 +31,10 @@ export async function ask(question: string, onEvent: (e: PipelineEvent) => void,
     body: JSON.stringify({ question }),
     signal,
   })
-  if (!res.ok || !res.body) throw new Error(`Request failed (${res.status})`)
+  if (!res.ok || !res.body) {
+    const detail = await res.json().then(j => j.detail, () => null)
+    throw new Error(typeof detail === 'string' ? detail : `Request failed (${res.status})`)
+  }
 
   const reader = res.body.pipeThrough(new TextDecoderStream()).getReader()
   let buf = ''
