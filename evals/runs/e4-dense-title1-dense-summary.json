@@ -1,0 +1,30 @@
+{
+ "mode": "dense",
+ "name": "e4-dense-title1",
+ "k": 6,
+ "candidates": 30,
+ "llm": "openai:qwen/qwen3.8-27b",
+ "router": "citation",
+ "results": {
+  "keyword": {
+   "n": 10,
+   "hit@K": 0.8,
+   "MRR": 0.7,
+   "p50_s": 0.26,
+   "p95_s": 4.69,
+   "hit@K_by_title": {
+    "1": 0.8
+   }
+  },
+  "hybrid": {
+   "n": 10,
+   "hit@K": 1.0,
+   "MRR": 0.825,
+   "p50_s": 0.8,
+   "p95_s": 7.45,
+   "hit@K_by_title": {
+    "1": 1.0
+   }
+  }
+ }
+}

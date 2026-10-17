@@ -59,11 +59,13 @@ def keyword_search(query: str, top_k: int = 20, titles: list[int] | None = None)
 
 
 def search(query: str, top_k: int = 8, titles: list[int] | None = None,
-           parts: list[str] | None = None) -> list[dict]:
+           parts: list[str] | None = None, dense: bool | None = None) -> list[dict]:
+    """Hybrid (RRF of dense + BM25) when the scope is fully dense-embedded, else BM25.
+    `dense` forces either mode (evals compare the two on the same scope)."""
     sp = next(sparse_model().query_embed(query))
     sparse_q = models.SparseVector(indices=sp.indices.tolist(), values=sp.values.tolist())
     flt = _filter(titles, parts)
-    if not use_dense(titles):
+    if not (use_dense(titles) if dense is None else dense):
         res = client().query_points(COLLECTION, query=sparse_q, using=SPARSE, query_filter=flt,
                                     limit=top_k, with_payload=True)
         return [{**p.payload, "score": p.score} for p in res.points]

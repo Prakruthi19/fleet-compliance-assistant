@@ -1,0 +1,19 @@
+{
+ "mode": "answers",
+ "name": "e3-short-answers",
+ "k": 6,
+ "candidates": 30,
+ "llm": "openai:qwen/qwen3.8-27b",
+ "router": "citation",
+ "results": {
+  "run_file": "D:\\multi-hop-rag\\evals\\runs\\e3-short-answers.jsonl",
+  "n": 50,
+  "route_s_p50": 0.0,
+  "search_s_p50": 0.17,
+  "generate_s_p50": 22.02,
+  "first_token_s_p50": 22.17,
+  "total_s_p50": 22.48,
+  "first_token_s_p95": 33.35,
+  "total_s_p95": 33.72
+ }
+}

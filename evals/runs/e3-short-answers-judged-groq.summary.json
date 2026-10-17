@@ -1,0 +1,11 @@
+{
+ "run_file": "evals\\runs\\e3-short-answers.jsonl",
+ "judge": "openai-compatible:openai/gpt-oss-120b",
+ "n": 15,
+ "citations_valid": 1.0,
+ "citations_valid_failed": 0,
+ "faithfulness": 0.951,
+ "faithfulness_failed": 0,
+ "answer_relevancy": 0.97,
+ "answer_relevancy_failed": 0
+}

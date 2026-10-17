@@ -15,6 +15,11 @@ Evaluation runner (main venv). Two modes:
 
     python -m regrag.eval.run retrieval [--limit 20]
     python -m regrag.eval.run answers --name v1 [--limit 15]
+    python -m regrag.eval.run dense --name e4 [--titles 1,21]
+
+  dense     — keyword-only vs hybrid on the same scope, for titles that are
+              fully dense-embedded (each question searched within its own
+              title, so a partially embedded corpus can still be compared).
 """
 import argparse
 import json
@@ -125,19 +130,37 @@ def eval_answers(rows: list[dict], name: str) -> dict:
         f"{k}_p95": round(pct([t[k] for t in timings], 0.95), 2) for k in ("first_token_s", "total_s")}}
 
 
+def eval_dense(rows: list[dict], k: int, titles: list[int]) -> dict:
+    rows = [r for r in rows if r["title"] in titles]
+    out = {"keyword": [], "hybrid": []}
+    for i, row in enumerate(rows, 1):
+        for name, dense in (("keyword", False), ("hybrid", True)):
+            t = time.perf_counter()
+            hits = search(row["question"], k, titles=[row["title"]], dense=dense)
+            out[name].append({"id": row["id"], "title": row["title"], "rank": _rank(row, hits),
+                              "latency_s": time.perf_counter() - t})
+        print(f"{i}/{len(rows)} keyword={out['keyword'][-1]['rank']} hybrid={out['hybrid'][-1]['rank']}", flush=True)
+    return {name: summarize(res) for name, res in out.items()}
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("mode", choices=["retrieval", "answers"])
+    ap.add_argument("mode", choices=["retrieval", "answers", "dense"])
     ap.add_argument("--limit", type=int)
     ap.add_argument("--name", default=datetime.now().strftime("run-%Y%m%d-%H%M"))
     ap.add_argument("--k", type=int, default=config.CONTEXT_K)
     ap.add_argument("--candidates", type=int, default=config.CANDIDATES)
     ap.add_argument("--router", choices=["citation", "vote", "llm"], default=config.ROUTER)
+    ap.add_argument("--titles", default="1,21", help="dense mode: titles to compare (must be dense-embedded)")
     args = ap.parse_args()
 
     rows = load_testset(args.limit)
-    summary = (eval_retrieval(rows, args.k, args.candidates, args.router) if args.mode == "retrieval"
-               else eval_answers(rows, args.name))
+    if args.mode == "retrieval":
+        summary = eval_retrieval(rows, args.k, args.candidates, args.router)
+    elif args.mode == "dense":
+        summary = eval_dense(rows, args.k, [int(t) for t in args.titles.split(",")])
+    else:
+        summary = eval_answers(rows, args.name)
     summary = {"mode": args.mode, "name": args.name, "k": args.k, "candidates": args.candidates,
                "llm": f"{config.LLM_PROVIDER}:{config.LLM_MODEL}", "router": args.router, "results": summary}
     RUNS.mkdir(parents=True, exist_ok=True)

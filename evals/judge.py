@@ -121,18 +121,28 @@ def main() -> None:
     ap.add_argument("run_file", type=Path)
     ap.add_argument("--judge", choices=["local", "azure", "groq"], default="local")
     ap.add_argument("--limit", type=int)
+    ap.add_argument("--same-as", type=Path,
+                    help="a previous *-judged-*.jsonl: judge only the ids it scored, for a like-for-like comparison")
+    ap.add_argument("--metrics", default="faithfulness,answer_relevancy,contextual_recall",
+                    help="comma-separated subset (the judge's daily token quota is the bottleneck)")
+    ap.add_argument("--tag", default="", help="suffix for the output file name")
     args = ap.parse_args()
 
     rows = [json.loads(l) for l in args.run_file.read_text(encoding="utf-8").splitlines() if l.strip()]
+    if args.same_as:
+        prev = [json.loads(l) for l in args.same_as.read_text(encoding="utf-8").splitlines() if l.strip()]
+        keep = {r["id"] for r in prev if r.get("faithfulness") is not None}
+        rows = [r for r in rows if r["id"] in keep]
     rows = rows[: args.limit] if args.limit else rows
     model = judge_model(args.judge)
-    metrics = {
+    all_metrics = {
         "faithfulness": lambda: FaithfulnessMetric(model=model, async_mode=False, include_reason=False),
         "answer_relevancy": lambda: AnswerRelevancyMetric(model=model, async_mode=False, include_reason=False),
         "contextual_recall": lambda: ContextualRecallMetric(model=model, async_mode=False, include_reason=False),
     }
+    metrics = {k: all_metrics[k] for k in args.metrics.split(",")}
 
-    out_path = args.run_file.with_name(f"{args.run_file.stem}-judged-{args.judge}.jsonl")
+    out_path = args.run_file.with_name(f"{args.run_file.stem}-judged-{args.judge}{args.tag}.jsonl")
     scored = []
     with open(out_path, "w", encoding="utf-8") as f:
         for i, row in enumerate(rows, 1):
